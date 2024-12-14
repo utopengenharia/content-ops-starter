@@ -39,7 +39,7 @@ sections:
         elementId: ''
         type: Button
       - type: Button
-        label: Get started
+        label: E
         altText: ''
         url: /
         showIcon: false
