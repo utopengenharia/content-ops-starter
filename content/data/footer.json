@@ -1,16 +1,11 @@
 {
-    "text": "",
+    "text": "##### © 2024 UTOP Engenharia\n\n\n\n",
     "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "",
     "colors": "bg-light-fg-dark",
     "type": "Footer",
     "title": "",
-    "secondaryLinks": {
-        "type": "FooterLinksGroup",
-        "title": "",
-        "links": []
-    },
     "styles": {
         "self": {
             "padding": [
