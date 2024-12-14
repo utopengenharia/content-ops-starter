@@ -47,17 +47,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-20
-          - pl-20
-          - pb-20
-          - pr-20
   - type: FeaturedItemsSection
     title:
       text: Por que Escolher o UTOP Engenharia?
