@@ -295,8 +295,7 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - posts:
-      - content/pages/blog/case-study-2.md
+  - posts: []
     showThumbnail: true
     showDate: true
     showAuthor: true
