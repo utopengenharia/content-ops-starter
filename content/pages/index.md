@@ -340,7 +340,7 @@ sections:
           self:
             textAlign: center
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: Comercial
         subtitle: ''
         image:
           type: ImageBlock
