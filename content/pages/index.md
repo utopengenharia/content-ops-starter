@@ -569,8 +569,7 @@ sections:
         description: |+
           #### **utopengenharia\@gmail.com**
 
-        features:
-          - Feature four
+        features: []
         image:
           type: ImageBlock
           url: /images/511256email.png
