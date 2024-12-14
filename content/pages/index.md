@@ -160,9 +160,6 @@ sections:
     images:
       - altText: Empathy logo
         type: ImageBlock
-      - url: /images/artwalk.png
-        altText: Wellster logo
-        type: ImageBlock
       - url: /images/cipó.jpg
         altText: Telus logo
         type: ImageBlock
