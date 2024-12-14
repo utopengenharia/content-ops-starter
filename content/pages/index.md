@@ -640,10 +640,10 @@ sections:
         margin:
           - mb-0
         padding:
-          - pb-10
-          - pt-10
-          - pl-10
-          - pr-10
+          - pb-20
+          - pt-20
+          - pl-20
+          - pr-20
       subtitle:
         textAlign: center
   - type: DividerSection
