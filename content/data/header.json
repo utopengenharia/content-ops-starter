@@ -19,7 +19,8 @@
     "styles": {
         "self": {
             "padding": [
-                "pl-36"
+                "pl-36",
+                "pb-1"
             ]
         }
     }
