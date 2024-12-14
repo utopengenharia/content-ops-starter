@@ -394,7 +394,7 @@ sections:
           “Quote from some important person goes right here. I love using
           Netlify Create.”
         tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
+        subtitle: ''
         text: |
           S
         image:
