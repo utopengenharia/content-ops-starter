@@ -56,7 +56,7 @@ sections:
           - pr-16
     media:
       type: VideoBlock
-      title: Title of the video
+      title: ''
       url: 'https://vimeo.com/1039158037'
       autoplay: true
       loop: true
