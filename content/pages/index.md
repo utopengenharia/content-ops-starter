@@ -584,6 +584,7 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
+            textAlign: center
     colors: bg-light-fg-dark
     styles:
       self:
