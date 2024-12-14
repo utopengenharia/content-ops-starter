@@ -158,8 +158,7 @@ sections:
         textAlign: center
   - subtitle: Empresas e Parceiros que Confiam em Nós
     images:
-      - url: /images/Ícone Prefeitura de São Paulo.jpg
-        altText: Empathy logo
+      - altText: Empathy logo
         type: ImageBlock
       - url: /images/artwalk.png
         altText: Wellster logo
