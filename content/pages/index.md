@@ -306,10 +306,10 @@ sections:
       self:
         justifyContent: center
         margin:
-          - mt-20
-          - ml-20
-          - mb-20
-          - mr-20
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
       subtitle:
         textAlign: center
     type: ImageGallerySection
