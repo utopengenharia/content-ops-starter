@@ -224,7 +224,6 @@ sections:
     images:
       - altText: Empathy logo
         type: ImageBlock
-        url: /images/embraer-logo-0.png
       - altText: Telus logo
         type: ImageBlock
         url: /images/Poupatempo.png
