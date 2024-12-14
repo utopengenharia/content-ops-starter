@@ -476,7 +476,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 20x
+        title: ''
         subtitle: The Job Stuff
         text: >
           “Precisei de um laudo técnico para a reforma do meu apartamento e a
