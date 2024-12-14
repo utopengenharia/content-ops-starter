@@ -445,7 +445,7 @@ sections:
           total domínio técnico e entregou tudo dentro do prazo, garantindo a
           aprovação nos órgãos competentes sem nenhuma dificuldade. Recomendo
           pela qualidade e profissionalismo!”
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
