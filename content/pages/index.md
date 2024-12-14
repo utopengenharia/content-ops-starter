@@ -57,7 +57,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/ScreenRecorderProject44
+      url: /images/ScreenRecorderProject44.mp4
       autoplay: true
       loop: true
       muted: true
