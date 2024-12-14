@@ -360,7 +360,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Contratamos o UTOP Engenharia para desenvolver todos os projetos
+          "Contratamos a UTOP Engenharia para desenvolver todos os projetos
           complementares da nossa nova loja, e ficamos extremamente satisfeitos
           com o trabalho. Desde o projeto elétrico até o hidráulico e de combate
           a incêndio, tudo foi feito com eficiência e alinhado às normas
