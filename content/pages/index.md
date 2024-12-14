@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Entre em contato por aqui
         altText: ''
-        url: /
+        url: wa.link/jeuy6f
         showIcon: false
         icon: arrowRight
         iconPosition: right
