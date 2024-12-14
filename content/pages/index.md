@@ -533,7 +533,8 @@ sections:
         price: Whatsapp
         details: ''
         description: ''
-        features: []
+        features:
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
