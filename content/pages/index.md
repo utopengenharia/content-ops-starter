@@ -534,7 +534,6 @@ sections:
         details: No credit card required
         description: ''
         features:
-          - Feature three
           - Feature four
         image:
           type: ImageBlock
