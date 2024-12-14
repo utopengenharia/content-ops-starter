@@ -36,7 +36,7 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: left
-        style: primary
+        style: secondary
         elementId: ''
     media:
       url: /images/Imagem10.png
