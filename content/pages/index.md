@@ -158,6 +158,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            textAlign: left
         type: FeaturedItem
     actions:
       - label: Get started
