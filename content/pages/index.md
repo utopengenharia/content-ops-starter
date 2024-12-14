@@ -39,11 +39,6 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
-    media:
-      url: /images/Imagem10.png
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
     badge:
       label: ''
       color: text-primary
