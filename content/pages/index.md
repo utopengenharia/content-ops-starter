@@ -163,9 +163,6 @@ sections:
       - url: /images/artwalk.png
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/bubble box.png
-        altText: Vise logo
-        type: ImageBlock
       - url: /images/cipó.jpg
         altText: Telus logo
         type: ImageBlock
