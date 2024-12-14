@@ -207,7 +207,7 @@ sections:
     images:
       - altText: Telus logo
         type: ImageBlock
-        url: /images/Poupatempo.png
+        url: /images/50Poupatempo.png
       - altText: Contentful logo
         type: ImageBlock
         url: /images/maia arquitetura.png
