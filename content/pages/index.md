@@ -254,7 +254,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/icl.png
+        url: /images/50icl.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
