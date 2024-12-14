@@ -575,7 +575,7 @@ sections:
           url: /images/511256email.png
           altText: Pricing plan 2
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
