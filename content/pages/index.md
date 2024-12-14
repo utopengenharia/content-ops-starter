@@ -357,7 +357,7 @@ sections:
             textAlign: center
     actions:
       - type: Button
-        label: Get started
+        label: CLIQUE AQUI PARA BAIXAR NOSSO PORTFÓLIO
         altText: ''
         url: /
         showIcon: false
