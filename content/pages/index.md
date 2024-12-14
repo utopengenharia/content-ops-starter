@@ -414,7 +414,7 @@ sections:
       subtitle:
         textAlign: center
       text:
-        textAlign: justify
+        textAlign: center
     type: GenericSection
     media:
       type: ImageBlock
