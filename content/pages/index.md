@@ -34,7 +34,7 @@ sections:
         url: >-
           https://api.whatsapp.com/send/?phone=%2B5511986195444&text&type=phone_number&app_absent=0
         showIcon: true
-        icon: play
+        icon: send
         iconPosition: right
         style: secondary
         elementId: ''
