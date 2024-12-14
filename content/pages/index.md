@@ -368,7 +368,7 @@ sections:
           entregou soluções que otimizam os custos de operação da loja. Não
           poderia estar mais feliz com o resultado!"
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: ''
         image:
           altText: Maria Walters
