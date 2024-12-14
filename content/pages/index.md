@@ -74,7 +74,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://vimeo.com/1039158037?share=copy'
+      url: ''
       autoplay: true
       loop: true
       muted: true
