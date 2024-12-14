@@ -506,14 +506,15 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          “A UTOP Engenharia foi essencial para o sucesso da construção do nosso
-          prédio residencial. Eles elaboraram todos os projetos complementares,
-          incluindo os sistemas elétricos, hidráulicos, de gás, SPDA e combate a
-          incêndio, com um nível de detalhamento impecável. A equipe demonstrou
-          total domínio técnico e entregou tudo dentro do prazo, garantindo a
-          aprovação nos órgãos competentes sem nenhuma dificuldade. Recomendo
-          pela qualidade e profissionalismo!”
+        text: >+
+          ##### “A UTOP Engenharia foi essencial para o sucesso da construção do
+          nosso prédio residencial. Eles elaboraram todos os projetos
+          complementares, incluindo os sistemas elétricos, hidráulicos, de gás,
+          SPDA e combate a incêndio, com um nível de detalhamento impecável. A
+          equipe demonstrou total domínio técnico e entregou tudo dentro do
+          prazo, garantindo a aprovação nos órgãos competentes sem nenhuma
+          dificuldade. Recomendo pela qualidade e profissionalismo!”
+
         image:
           type: ImageBlock
           altText: Featured icon three
