@@ -310,6 +310,11 @@ sections:
           - ml-0
           - mb-0
           - mr-0
+        padding:
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
       subtitle:
         textAlign: center
     type: ImageGallerySection
