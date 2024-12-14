@@ -304,7 +304,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: left
+          textAlign: center
     items:
       - type: FeaturedItem
         title: Faux Fur Throw
