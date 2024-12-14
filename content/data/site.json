@@ -8,7 +8,8 @@
     "defaultMetaTags": [
         {
             "type": "MetaTag",
-            "content": "utop, utop engenharia, projetos, hidráulica, elétrica, bombeiro, spda, gás, estrutural"
+            "content": "utop, utop engenharia, projetos, hidráulica, elétrica, bombeiro, spda, gás, estrutural",
+            "property": "og:description"
         }
     ]
 }
