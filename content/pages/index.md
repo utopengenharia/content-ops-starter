@@ -496,14 +496,6 @@ sections:
           imprevistos. Excelente trabalho!" 
         subtitle: ''
         text: ''
-        image:
-          type: ImageBlock
-          url: /images/icon1.svg
-          altText: Placeholder text
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
