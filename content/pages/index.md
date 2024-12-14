@@ -504,7 +504,7 @@ sections:
           laudo completo e muito bem detalhado. Isso facilitou a aprovação do
           projeto pelo condomínio e me deu segurança para executar a reforma sem
           imprevistos. Excelente trabalho!"”
-        tagline: Testemunha 3
+        tagline: ''
         subtitle: ''
         text: ''
         image:
