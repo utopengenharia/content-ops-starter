@@ -159,11 +159,6 @@ sections:
           Projetos inteligentes que otimizam recursos, promovem eficiência e
           ajudam a reduzir custos na execução.
 
-        image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
