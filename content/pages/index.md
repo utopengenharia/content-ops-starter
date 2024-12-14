@@ -4,12 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        Unblock your team boost your time to production<iframe width="768"
-        height="432"
-        src="https://miro.com/app/live-embed/uXjVP4_hmDo=/?moveToViewport=-10552,-1486,12766,6478&embedId=937357585167"
-        frameborder="0" scrolling="no" allow="fullscreen; clipboard-read;
-        clipboard-write" allowfullscreen></iframe>
+      text: Unblock your team boost your time to production
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
