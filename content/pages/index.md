@@ -12,8 +12,9 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      Soluções completas em projetos complementares: elétrica, hidráulica, gás,
-      SPDA e combate a incêndios.
+      <div style="text-align: center">Soluções completas em projetos
+      complementares: elétrica, hidráulica, gás, SPDA e combate a
+      incêndios.</div>
 
     actions:
       - label: Entre em contato por aqui
