@@ -104,6 +104,6 @@
         }
     ],
     "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
-    "colors": "bg-dark-fg-light",
+    "colors": "bg-neutral-fg-dark",
     "type": "Footer"
 }
