@@ -268,7 +268,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/artwalk.png
+        url: /images/50artwalk.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
