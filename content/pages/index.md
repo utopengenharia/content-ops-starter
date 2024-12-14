@@ -529,7 +529,7 @@ sections:
       dados abaixo.
     plans:
       - type: PricingPlan
-        title: Telefone
+        title: Telefone / Whatsapp
         price: Telefone
         details: No credit card required
         description: ''
