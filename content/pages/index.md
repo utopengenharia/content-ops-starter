@@ -446,10 +446,14 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          "Contratamos a UTOP Engenharia para desenvolver todos os projetos
+          complementares da nossa nova loja, e ficamos extremamente satisfeitos
+          com o trabalho. Desde o projeto elétrico até o hidráulico e de combate
+          a incêndio, tudo foi feito com eficiência e alinhado às normas
+          técnicas. A equipe foi muito acessível durante todo o processo e
+          entregou soluções que otimizam os custos de operação da loja. Não
+          poderia estar mais feliz com o resultado!"
         image:
           type: ImageBlock
           url: /images/icon1.svg
