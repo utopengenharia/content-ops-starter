@@ -12,7 +12,7 @@
         "links": [
             {
                 "type": "Link",
-                "label": "CelWhatsapp: +5511986195444",
+                "label": "Cel/Whatsapp: +5511986195444",
                 "altText": "",
                 "url": "https://api.whatsapp.com/send/?phone=%2B5511986195444&text&type=phone_number&app_absent=0",
                 "showIcon": false,
