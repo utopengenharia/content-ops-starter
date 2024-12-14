@@ -393,7 +393,7 @@ sections:
       - title: >-
           “Quote from some important person goes right here. I love using
           Netlify Create.”
-        tagline: Testimonial 6
+        tagline: Testemunha 3
         subtitle: ''
         text: ''
         image:
