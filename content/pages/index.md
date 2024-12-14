@@ -159,6 +159,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             textAlign: left
+            justifyContent: flex-start
         type: FeaturedItem
     actions:
       - label: Get started
