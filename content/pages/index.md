@@ -445,7 +445,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           "Contratamos a UTOP Engenharia para desenvolver todos os projetos
           complementares da nossa nova loja, e ficamos extremamente satisfeitos
