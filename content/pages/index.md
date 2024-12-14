@@ -615,7 +615,7 @@ sections:
         price: E-mail
         details: ''
         description: |+
-          #### **utopengenharia\@gmail.com**
+          #### <utopengenharia@gmail.com>
 
         features: []
         image:
