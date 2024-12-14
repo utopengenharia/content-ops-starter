@@ -6,7 +6,6 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/vise-logo.svg
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
