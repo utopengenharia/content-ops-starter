@@ -565,7 +565,7 @@ sections:
       - type: PricingPlan
         title: ''
         price: E-mail
-        details: per month
+        details: ''
         description: |+
           #### **utopengenharia\@gmail.com**
 
