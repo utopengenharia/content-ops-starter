@@ -157,7 +157,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            textAlign: left
+            textAlign: center
             justifyContent: flex-start
         type: FeaturedItem
     actions: []
