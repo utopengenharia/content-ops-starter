@@ -523,7 +523,10 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is the subtitle for the pricing section
+    subtitle: >-
+      Na UTOP Engenharia, estamos prontos para entender as suas necessidades e
+      oferecer soluções sob medida. Entre em contato agora mesmo através dos
+      dados abaixo.
     plans:
       - type: PricingPlan
         title: Developers
