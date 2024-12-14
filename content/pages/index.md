@@ -29,7 +29,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Projetos de Engenharia que Transformam Ideias em Realidade
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
