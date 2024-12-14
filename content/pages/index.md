@@ -240,7 +240,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/livance.png
+        url: /images/50livance.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
