@@ -170,7 +170,7 @@ sections:
       - url: /images/cipó.jpg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/download (1).png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
