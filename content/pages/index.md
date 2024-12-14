@@ -335,7 +335,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/ifc2.png
           altText: Cotton Knit Throws
           elementId: ''
           styles:
