@@ -12,7 +12,7 @@
             "self": {
                 "borderRadius": "medium",
                 "margin": [
-                    "mb-8",
+                    "mb-0",
                     "mt-1"
                 ],
                 "padding": [
