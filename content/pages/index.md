@@ -164,9 +164,6 @@ sections:
         type: ImageBlock
       - altText: Contentful logo
         type: ImageBlock
-      - url: /images/icl.jpg
-        altText: Sanity logo
-        type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
         type: ImageBlock
