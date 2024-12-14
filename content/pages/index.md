@@ -352,6 +352,9 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-light-fg-dark
+        styles:
+          self:
+            textAlign: center
     actions: []
     elementId: ''
     variant: three-col-grid
