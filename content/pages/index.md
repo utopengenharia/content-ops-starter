@@ -509,7 +509,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-    variant: next-prev-nav-multiple
+    variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
       self:
