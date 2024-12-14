@@ -103,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "copyrightText": "© 2024 UTOP Engenharia. Todos os direitos reservados.\n\n",
     "colors": "bg-light-fg-dark",
     "type": "Footer"
 }
