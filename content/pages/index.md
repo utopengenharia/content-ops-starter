@@ -592,9 +592,7 @@ sections:
         price: Whatsapp
         details: ''
         description: |+
-          <div style="text-align: center">© 2024 UTOP Engenharia.
-
-          </div>
+          <div style="text-align: center">© 2024 UTOP Engenharia.</div>
 
         features: []
         image:
