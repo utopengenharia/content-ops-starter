@@ -275,7 +275,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/50embraer-logo-0.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
