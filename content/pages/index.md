@@ -336,6 +336,9 @@ sections:
       type: TitleBlock
       text: O Que Nossos Clientes Dizem
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: What our customers say about us
     items:
       - title: >-
