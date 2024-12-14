@@ -614,9 +614,8 @@ sections:
         title: ''
         price: E-mail
         details: ''
-        description: |+
-          #### <utopengenharia@gmail.com>
-
+        description: |
+          <utopengenharia@gmail.com>
         features: []
         image:
           type: ImageBlock
