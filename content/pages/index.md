@@ -618,7 +618,7 @@ sections:
     type: GenericSection
     styles:
       text:
-        textAlign: right
+        textAlign: justify
   - type: DividerSection
     title: Divider
     elementId: ''
