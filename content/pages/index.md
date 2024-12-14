@@ -506,10 +506,14 @@ sections:
       - type: FeaturedItem
         title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          “A UTOP Engenharia foi essencial para o sucesso da construção do nosso
+          prédio residencial. Eles elaboraram todos os projetos complementares,
+          incluindo os sistemas elétricos, hidráulicos, de gás, SPDA e combate a
+          incêndio, com um nível de detalhamento impecável. A equipe demonstrou
+          total domínio técnico e entregou tudo dentro do prazo, garantindo a
+          aprovação nos órgãos competentes sem nenhuma dificuldade. Recomendo
+          pela qualidade e profissionalismo!”
         image:
           type: ImageBlock
           url: /images/icon3.svg
