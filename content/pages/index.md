@@ -543,12 +543,9 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      <div style="text-align: center">Suporte</div>
-
-
-      ##### No UTOP Engenharia, estamos prontos para entender as suas
-      necessidades e oferecer soluções sob medida. Entre em contato agora mesmo
-      através dos dados abaixo.
+      <div style="text-align: center">Na UTOP Engenharia, estamos prontos para
+      entender as suas necessidades e oferecer soluções sob medida. Entre em
+      contato agora mesmo através dos dados abaixo.</div>
 
     colors: bg-light-fg-dark
     type: GenericSection
