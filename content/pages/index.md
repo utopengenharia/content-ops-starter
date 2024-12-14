@@ -562,7 +562,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          textAlign: justify
+          textAlign: center
     subtitle: ''
     text: >
       No UTOP Engenharia, estamos prontos para entender as suas necessidades e
