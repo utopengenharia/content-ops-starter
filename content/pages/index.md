@@ -503,7 +503,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: 'O que nossos clientes dizem:'
       color: text-dark
   - type: DividerSection
     title: Divider
