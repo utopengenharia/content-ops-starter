@@ -45,7 +45,9 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Diferenciais
+      text: >-
+        Soluções inovadoras, alinhadas às normas e feitas sob medida para cada
+        cliente.
       color: text-dark
       styles:
         self:
