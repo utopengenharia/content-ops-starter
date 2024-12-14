@@ -572,7 +572,7 @@ sections:
           type: TextareaFormControl
         - type: CheckboxFormControl
           name: updates
-          label: I have read and accept the legal terms.
+          label: 'Eu concordo em encaminhar essa solicitação. '
           isRequired: false
           width: full
       elementId: contact-form
