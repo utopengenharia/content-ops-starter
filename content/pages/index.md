@@ -45,9 +45,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: >-
-        Soluções inovadoras, alinhadas às normas e feitas sob medida para cada
-        cliente.
+      text: Por que Escolher o UTOP Engenharia?
       color: text-dark
       styles:
         self:
