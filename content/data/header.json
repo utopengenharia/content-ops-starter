@@ -15,5 +15,12 @@
         },
         "url": "/images/T7-1.png"
     },
-    "title": ""
+    "title": "",
+    "styles": {
+        "self": {
+            "padding": [
+                "pl-36"
+            ]
+        }
+    }
 }
