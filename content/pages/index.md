@@ -158,7 +158,7 @@ sections:
         textAlign: center
   - subtitle: Empresas e Parceiros que Confiam em Nós
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/Ícone Prefeitura de São Paulo.jpg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/artwalk.png
