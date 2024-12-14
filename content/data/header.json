@@ -1,7 +1,7 @@
 {
     "primaryLinks": [],
     "secondaryLinks": [],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-left-primary-nav-left",
     "colors": "bg-light-fg-dark",
     "type": "Header",
     "logo": {
