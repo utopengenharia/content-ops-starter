@@ -13,10 +13,5 @@
     "copyrightText": "",
     "colors": "bg-light-fg-dark",
     "type": "Footer",
-    "title": "",
-    "primaryLinks": {
-        "type": "FooterLinksGroup",
-        "title": "Company",
-        "links": []
-    }
+    "title": ""
 }
