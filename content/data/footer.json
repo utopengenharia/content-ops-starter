@@ -13,5 +13,44 @@
     "copyrightText": "",
     "colors": "bg-light-fg-dark",
     "type": "Footer",
-    "title": ""
+    "title": "",
+    "secondaryLinks": {
+        "type": "FooterLinksGroup",
+        "title": "Product",
+        "links": [
+            {
+                "type": "Link",
+                "label": "Features",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Pricing",
+                "altText": "",
+                "url": "/pricing",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Documentation",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ]
+    }
 }
