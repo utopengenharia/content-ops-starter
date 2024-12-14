@@ -518,7 +518,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: Tem dúvidas ou precisa de um orçamento?
       color: text-dark
       styles:
         self:
