@@ -482,7 +482,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: Entre em Contato Conosco
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
