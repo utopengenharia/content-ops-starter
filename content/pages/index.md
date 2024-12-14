@@ -533,8 +533,7 @@ sections:
         price: Telefone
         details: No credit card required
         description: ''
-        features:
-          - Feature four
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
