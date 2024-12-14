@@ -478,10 +478,13 @@ sections:
       - type: FeaturedItem
         title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          “Precisei de um laudo técnico para a reforma do meu apartamento e a
+          UTOP Engenharia foi a escolha certa. A equipe analisou todas as
+          condições existentes, apontou as adequações necessárias e elaborou um
+          laudo completo e muito bem detalhado. Isso facilitou a aprovação do
+          projeto pelo condomínio e me deu segurança para executar a reforma sem
+          imprevistos. Excelente trabalho!"
         image:
           type: ImageBlock
           url: /images/icon2.svg
