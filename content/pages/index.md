@@ -87,10 +87,10 @@ sections:
               borderRadius: x-large
       - title: Agilidade e Conformidade
         subtitle: 20% Mais Ágil
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Reduzimos prazos e garantimos conformidade com as normas técnicas,
+          oferecendo soluções práticas e rápidas para seus projetos.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
