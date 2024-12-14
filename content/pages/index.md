@@ -416,7 +416,6 @@ sections:
     type: GenericSection
     media:
       type: ImageBlock
-      url: /images/FIG 1.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
