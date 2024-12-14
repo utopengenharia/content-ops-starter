@@ -609,7 +609,7 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: null
     colors: bg-light-fg-dark
     type: GenericSection
