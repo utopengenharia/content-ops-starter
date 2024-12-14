@@ -56,10 +56,11 @@ sections:
       - type: FeaturedItem
         title: Experiência Comprovada
         subtitle: Mais de 500 Projetos Entregues
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Com ampla experiência no mercado, entregamos soluções em engenharia
+          elétrica, hidráulica, SPDA e combate a incêndio, com qualidade e
+          precisão técnica.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
