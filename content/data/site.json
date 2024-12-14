@@ -1,8 +1,15 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/T3.png",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
+    "titleSuffix": "UTOP Engenharia",
     "defaultSocialImage": "/images/main-hero.jpg",
     "type": "Config",
-    "header": "content/data/header.json"
+    "header": "content/data/header.json",
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag",
+            "content": "utop, utop engenharia, projetos, hidráulica, elétrica, bombeiro, spda, gás, estrutural",
+            "property": "og:description"
+        }
+    ]
 }
