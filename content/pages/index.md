@@ -15,12 +15,13 @@ sections:
           - pr-3
   - type: GenericSection
     title:
-      text: Projetos de Engenharia que Transformam Ideias em Realidade
+      text: Projetos de engenharia que transformam ideias em realidade
       color: text-dark
       type: TitleBlock
       styles:
         self:
           textAlign: center
+          fontWeight: 400
     subtitle: ''
     text: >+
       <div style="text-align: center">Soluções completas em projetos
@@ -38,11 +39,6 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
-    media:
-      url: /images/Imagem10.png
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
     badge:
       label: ''
       color: text-primary
@@ -58,6 +54,27 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+        justifyContent: center
+    media:
+      type: VideoBlock
+      title: ''
+      url: 'https://vimeo.com/1039158037'
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -71,11 +88,12 @@ sections:
           - pr-3
   - type: FeaturedItemsSection
     title:
-      text: Por que Escolher o UTOP Engenharia?
+      text: Por que escolher a UTOP Engenharia?
       color: text-dark
       styles:
         self:
           textAlign: center
+          fontWeight: 400
       type: TitleBlock
     subtitle: >-
       Soluções inovadoras, alinhadas às normas e feitas sob medida para cada
@@ -83,7 +101,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Experiência Comprovada
-        subtitle: Mais de 500 Projetos Entregues
+        subtitle: Mais de 100 Projetos Entregues
         text: >+
           Com ampla experiência no mercado, entregamos soluções em engenharia
           elétrica, hidráulica, SPDA e combate a incêndio, com qualidade e
@@ -91,7 +109,7 @@ sections:
 
         actions: []
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -102,28 +120,15 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
-          styles:
-            self:
-              borderRadius: x-large
+            textAlign: center
       - title: Agilidade e Conformidade
         subtitle: 20% Mais Ágil
         text: >+
           Reduzimos prazos e garantimos conformidade com as normas técnicas,
           oferecendo soluções práticas e rápidas para seus projetos.
 
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -133,7 +138,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            textAlign: left
+            textAlign: center
             justifyContent: center
         type: FeaturedItem
       - title: Sustentabilidade e Economia
@@ -142,13 +147,8 @@ sections:
           Projetos inteligentes que otimizam recursos, promovem eficiência e
           ajudam a reduzir custos na execução.
 
-        image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -158,17 +158,10 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            textAlign: center
+            justifyContent: flex-start
         type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
@@ -195,73 +188,77 @@ sections:
           - pr-3
   - subtitle: Empresas e Parceiros que Confiam em Nós
     images:
-      - altText: Empathy logo
-        type: ImageBlock
-        url: /images/embraer-logo-0.png
       - altText: Telus logo
         type: ImageBlock
-        url: /images/Poupatempo.png
+        url: /images/50Poupatempo.png
       - altText: Contentful logo
         type: ImageBlock
-        url: /images/maia arquitetura.png
+        url: /images/50maia arquitetura.png
       - type: ImageBlock
-        url: /images/Metrô-SP_logo.svg.png
+        url: /images/50Metrô-SP_logo.svg.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/RZK-CONCESSOES.png
+        url: /images/50RZK-CONCESSOES.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/prefeit guararema.png
+        url: /images/50prefeit guararema.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/localiza.png
+        url: /images/50localiza.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/livance.png
+        url: /images/50livance.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/Ícone Prefeitura de São Paulo.png
+        url: /images/50Ícone Prefeitura de São Paulo.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/icl.png
+        url: /images/50icl.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/bubble box.png
+        url: /images/50bubble box.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/artwalk.png
+        url: /images/50artwalk.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/50embraer-logo-0.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
@@ -293,25 +290,7 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
+  - type: FeaturedItemsSection
     title:
       type: TitleBlock
       text: >-
@@ -321,6 +300,87 @@ sections:
       styles:
         self:
           textAlign: center
+    items:
+      - type: FeaturedItem
+        title: Residencial
+        subtitle: ''
+        image:
+          type: ImageBlock
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+          url: /images/casa3.png
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: center
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Predial
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/predio.png
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            textAlign: center
+      - type: FeaturedItem
+        title: Comercial
+        subtitle: ''
+        image:
+          type: ImageBlock
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+          url: /images/comercial3.png
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            textAlign: center
+    actions:
+      - type: Button
+        label: CLIQUE AQUI PARA BAIXAR NOSSO PORTFÓLIO
+        altText: ''
+        url: >-
+          https://drive.google.com/file/d/1CwtBrUxROS8QAkfDqnum65PDaHwV-OUJ/view?usp=sharing
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -357,12 +417,12 @@ sections:
     type: GenericSection
     media:
       type: ImageBlock
-      url: /images/FIG 1.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
         self:
           borderRadius: medium
+      url: /images/80FIG 1.png
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -377,23 +437,24 @@ sections:
     title:
       type: TitleBlock
       text: O Que Nossos Clientes Dizem
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
     subtitle: ''
     items:
-      - title: >-
-          “A UTOP Engenharia foi essencial para o sucesso da construção do nosso
-          prédio residencial. Eles elaboraram todos os projetos complementares,
-          incluindo os sistemas elétricos, hidráulicos, de gás, SPDA e combate a
-          incêndio, com um nível de detalhamento impecável. A equipe demonstrou
-          total domínio técnico e entregou tudo dentro do prazo, garantindo a
-          aprovação nos órgãos competentes sem nenhuma dificuldade. Recomendo
-          pela qualidade e profissionalismo!”
-        tagline: Testemunha 1
+      - title: ''
+        tagline: ''
         subtitle: ''
-        text: ''
+        text: >+
+          ##### “A UTOP Engenharia foi essencial para o sucesso da construção do
+          nosso prédio residencial. Eles elaboraram todos os projetos
+          complementares, incluindo os sistemas elétricos, hidráulicos, de gás,
+          SPDA e combate a incêndio, com um nível de detalhamento impecável. A
+          equipe demonstrou total domínio técnico e entregou tudo dentro do
+          prazo, garantindo a aprovação nos órgãos competentes sem nenhuma
+          dificuldade. Recomendo pela qualidade e profissionalismo!”
+
         image:
           altText: Maria Walters
           styles:
@@ -401,7 +462,7 @@ sections:
               borderRadius: full
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -414,17 +475,18 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Contratamos a UTOP Engenharia para desenvolver todos os projetos
-          complementares da nossa nova loja, e ficamos extremamente satisfeitos
-          com o trabalho. Desde o projeto elétrico até o hidráulico e de combate
-          a incêndio, tudo foi feito com eficiência e alinhado às normas
-          técnicas. A equipe foi muito acessível durante todo o processo e
-          entregou soluções que otimizam os custos de operação da loja. Não
+      - title: ''
+        tagline: ''
+        subtitle: ''
+        text: >+
+          ##### "Contratamos a UTOP Engenharia para desenvolver todos os
+          projetos complementares da nossa nova loja, e ficamos extremamente
+          satisfeitos com o trabalho. Desde o projeto elétrico até o hidráulico
+          e de combate a incêndio, tudo foi feito com eficiência e alinhado às
+          normas técnicas. A equipe foi muito acessível durante todo o processo
+          e entregou soluções que otimizam os custos de operação da loja. Não
           poderia estar mais feliz com o resultado!"
-        tagline: Testimonial 2
-        subtitle: ''
-        text: ''
+
         image:
           altText: Maria Walters
           styles:
@@ -432,7 +494,7 @@ sections:
               borderRadius: full
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -445,16 +507,17 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          “Precisei de um laudo técnico para a reforma do meu apartamento e o
-          UTOP Engenharia foi a escolha certa. A equipe analisou todas as
+      - title: ''
+        tagline: ''
+        subtitle: ''
+        text: >+
+          ##### “Precisei de um laudo técnico para a reforma do meu apartamento
+          e a UTOP Engenharia foi a escolha certa. A equipe analisou todas as
           condições existentes, apontou as adequações necessárias e elaborou um
           laudo completo e muito bem detalhado. Isso facilitou a aprovação do
           projeto pelo condomínio e me deu segurança para executar a reforma sem
-          imprevistos. Excelente trabalho!"”
-        tagline: Testemunha 3
-        subtitle: ''
-        text: ''
+          imprevistos. Excelente trabalho!"
+
         image:
           altText: Jane Doe
           styles:
@@ -462,7 +525,7 @@ sections:
               borderRadius: full
           type: ImageBlock
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -470,7 +533,7 @@ sections:
               - pb-9
               - pl-9
               - pr-9
-            textAlign: left
+            textAlign: justify
             borderRadius: large
             flexDirection: row
             justifyContent: center
@@ -495,14 +558,18 @@ sections:
           - pb-3
           - pr-3
   - title:
-      text: Tem dúvidas ou precisa de um orçamento? Estamos aqui para ajudar.
+      text: Tem dúvidas ou precisa de um orçamento?
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      No UTOP Engenharia, estamos prontos para entender as suas necessidades e
-      oferecer soluções sob medida. Preencha o formulário abaixo e entraremos em
-      contato o mais breve possível!
-    text: ''
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    text: >+
+      <div style="text-align: center">No UTOP Engenharia, estamos prontos para
+      entender as suas necessidades e oferecer soluções sob medida. Preencha o
+      formulário ao lado e entraremos em contato o mais breve possível!</div>
+
     media:
       fields:
         - name: name
@@ -546,12 +613,11 @@ sections:
         iconPosition: right
         style: primary
         elementId: null
-    badge:
-      label: Entre em Contato Conosco
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    styles:
+      text:
+        textAlign: justify
   - type: DividerSection
     title: Divider
     elementId: ''

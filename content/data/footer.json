@@ -1,9 +1,55 @@
 {
-    "text": "© 2024 UTOP Engenharia.\n\nTodos os direitos reservados.\n",
+    "text": "",
     "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "",
     "colors": "bg-light-fg-dark",
     "type": "Footer",
-    "title": ""
+    "title": "",
+    "secondaryLinks": {
+        "type": "FooterLinksGroup",
+        "title": "CONTATOS",
+        "links": [
+            {
+                "type": "Link",
+                "label": "Cel/Whatsapp: +5511986195444",
+                "altText": "",
+                "url": "https://api.whatsapp.com/send/?phone=%2B5511986195444&text&type=phone_number&app_absent=0",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "E-mail: engenharia@utop.com.br",
+                "altText": "",
+                "url": "/pricing",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "© 2024 UTOP Engenharia.",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ]
+    },
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-3"
+            ]
+        }
+    }
 }
