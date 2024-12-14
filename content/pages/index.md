@@ -204,10 +204,10 @@ sections:
     styles:
       self:
         padding:
-          - pb-20
-          - pt-20
-          - pl-20
-          - pr-20
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
