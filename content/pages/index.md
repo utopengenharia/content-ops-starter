@@ -219,7 +219,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/RZK-CONCESSOES.png
+        url: /images/50RZK-CONCESSOES.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
