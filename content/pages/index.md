@@ -533,7 +533,7 @@ sections:
         price: Whatsapp
         details: ''
         description: |+
-          ##### +5511986195444
+          <div style="text-align: center">##### +5511986195444</div>
 
         features: []
         image:
