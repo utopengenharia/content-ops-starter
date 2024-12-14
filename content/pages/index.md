@@ -637,6 +637,8 @@ sections:
     styles:
       self:
         justifyContent: center
+        margin:
+          - mb-1
       subtitle:
         textAlign: center
   - type: DividerSection
