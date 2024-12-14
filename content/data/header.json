@@ -22,7 +22,7 @@
     "styles": {
         "self": {
             "padding": [
-                "pl-0",
+                "pl-1",
                 "pb-0"
             ],
             "margin": [
