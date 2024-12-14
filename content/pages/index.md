@@ -438,6 +438,9 @@ sections:
       type: TitleBlock
       text: 'O que nossos clientes dizem:'
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: ''
     items:
       - type: FeaturedItem
