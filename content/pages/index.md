@@ -395,8 +395,7 @@ sections:
           Netlify Create.”
         tagline: Testimonial 6
         subtitle: ''
-        text: |
-          S
+        text: ''
         image:
           altText: Jane Doe
           styles:
