@@ -548,33 +548,43 @@ sections:
       Preencha o formulário ao lado e entraremos em contato o mais breve
       possível!</div>
 
+    colors: bg-light-fg-dark
+    type: GenericSection
+    styles:
+      text:
+        textAlign: justify
+      self:
+        justifyContent: center
     media:
+      type: FormBlock
       fields:
-        - name: name
+        - type: TextFormControl
+          name: name
           label: Name
           hideLabel: true
-          placeholder: Seu nome
+          placeholder: Your name
           isRequired: true
           width: full
-          type: TextFormControl
-        - name: email
+        - type: EmailFormControl
+          name: email
           label: Email
           hideLabel: true
-          placeholder: 'Seu e-mail '
+          placeholder: Your email
           isRequired: true
           width: full
-          type: EmailFormControl
-        - name: message
+        - type: TextareaFormControl
+          name: message
           label: Message
           hideLabel: true
-          placeholder: Mensagem
+          placeholder: Your message
           width: full
-          type: TextareaFormControl
-        - type: CheckboxFormControl
-          name: updates
-          label: 'Eu concordo em encaminhar essa solicitação. '
-          isRequired: false
-          width: full
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Submit
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
       elementId: contact-form
       styles:
         self:
@@ -587,22 +597,6 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Enviar Mensagem
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
-    colors: bg-light-fg-dark
-    type: GenericSection
-    styles:
-      text:
-        textAlign: justify
-      self:
-        justifyContent: center
   - type: DividerSection
     title: Divider
     elementId: ''
