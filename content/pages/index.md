@@ -436,7 +436,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: KO Que Nossos Clientes Dizemefits
       color: text-dark
       styles:
         self:
