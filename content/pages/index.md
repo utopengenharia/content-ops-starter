@@ -275,7 +275,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Nossa Metodologia de Trabalho
       color: text-dark
       styles:
         self:
