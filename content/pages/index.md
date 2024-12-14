@@ -337,7 +337,7 @@ sections:
           aprovação nos órgãos competentes sem nenhuma dificuldade. Recomendo
           pela qualidade e profissionalismo!”
         tagline: Testemunha 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: ''
         image:
           altText: Maria Walters
