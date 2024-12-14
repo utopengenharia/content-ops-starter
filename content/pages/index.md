@@ -210,7 +210,7 @@ sections:
         url: /images/50Poupatempo.png
       - altText: Contentful logo
         type: ImageBlock
-        url: /images/maia arquitetura.png
+        url: /images/50maia arquitetura.png
       - type: ImageBlock
         url: /images/50Metrô-SP_logo.svg.png
         altText: Image alt text placeholder
