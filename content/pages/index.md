@@ -76,6 +76,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 500
       type: TitleBlock
     subtitle: >-
       Soluções inovadoras, alinhadas às normas e feitas sob medida para cada
