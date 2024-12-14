@@ -608,10 +608,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: null
-    badge:
-      label: Entre em Contato Conosco
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
   - type: DividerSection
