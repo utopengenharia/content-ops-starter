@@ -591,9 +591,10 @@ sections:
         title: ''
         price: Whatsapp
         details: ''
-        description: >+
-          <div style="text-align: center">####
-          <https://api.whatsapp.com/send/?phone=%2B5511986195444&text&type=phone_number&app_absent=0>+5511986195444</div>
+        description: |+
+          <div style="text-align: center">© 2024 UTOP Engenharia.
+
+          </div>
 
         features: []
         image:
