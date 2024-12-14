@@ -505,7 +505,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: ''
-        subtitle: Faster
+        subtitle: ''
         text: >
           “A UTOP Engenharia foi essencial para o sucesso da construção do nosso
           prédio residencial. Eles elaboraram todos os projetos complementares,
