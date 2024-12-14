@@ -20,17 +20,6 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "© 2024 UTOP Engenharia.",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
             }
         ]
     },
