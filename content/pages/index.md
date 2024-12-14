@@ -154,6 +154,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
