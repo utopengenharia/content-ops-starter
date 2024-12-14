@@ -49,7 +49,7 @@
         "self": {
             "padding": [
                 "pt-3",
-                "pl-20"
+                "pl-0"
             ],
             "margin": [
                 "ml-20"
