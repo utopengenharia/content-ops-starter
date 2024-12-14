@@ -331,7 +331,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: Predial
         subtitle: ''
         image:
           type: ImageBlock
