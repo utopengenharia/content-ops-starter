@@ -334,7 +334,7 @@ sections:
   - type: CarouselSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: O Que Nossos Clientes Dizem
       color: text-dark
     subtitle: What our customers say about us
     items:
