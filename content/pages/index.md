@@ -447,6 +447,11 @@ sections:
       self:
         flexDirection: col
         justifyContent: center
+        padding:
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
       subtitle:
         textAlign: center
       text:
