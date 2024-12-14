@@ -530,7 +530,7 @@ sections:
     plans:
       - type: PricingPlan
         title: Telefone / Whatsapp
-        price: '+5511986195444'
+        price: ''
         details: Telefone / Whatsapp
         description: ''
         features: []
