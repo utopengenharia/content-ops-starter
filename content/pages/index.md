@@ -212,7 +212,7 @@ sections:
         type: ImageBlock
         url: /images/maia arquitetura.png
       - type: ImageBlock
-        url: /images/Metrô-SP_logo.svg.png
+        url: /images/50Metrô-SP_logo.svg.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
