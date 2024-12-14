@@ -413,6 +413,8 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+      text:
+        textAlign: justify
     type: GenericSection
     media:
       type: ImageBlock
