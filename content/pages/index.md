@@ -43,7 +43,24 @@ sections:
       label: ''
       color: text-primary
       type: Badge
-    elementId: ''
+    elementId: >-
+      <div class="sketchfab-embed-wrapper"> <iframe title="UTOP Engenharia -
+      Modelo BIM" frameborder="0" allowfullscreen mozallowfullscreen="true"
+      webkitallowfullscreen="true" allow="autoplay; fullscreen;
+      xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport
+      execution-while-not-rendered web-share
+      src="https://sketchfab.com/models/2775b74bda3743ca8e03b919196d2a92/embed">
+      </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px;
+      color: #4A4A4A;"> <a
+      href="https://sketchfab.com/3d-models/utop-engenharia-modelo-bim-2775b74bda3743ca8e03b919196d2a92?utm_medium=embed&utm_campaign=share-popup&utm_content=2775b74bda3743ca8e03b919196d2a92"
+      target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">
+      UTOP Engenharia - Modelo BIM </a> by <a
+      href="https://sketchfab.com/utopengenharia?utm_medium=embed&utm_campaign=share-popup&utm_content=2775b74bda3743ca8e03b919196d2a92"
+      target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">
+      UTOP Engenharia </a> on <a
+      href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=2775b74bda3743ca8e03b919196d2a92"
+      target="_blank" rel="nofollow" style="font-weight: bold; color:
+      #1CAAD9;">Sketchfab</a></p></div>
     colors: bg-light-fg-dark
     styles:
       self:
