@@ -57,7 +57,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/ScreenRecorderProject44.mp4
+      url: 'https://vimeo.com/1039158037'
       autoplay: true
       loop: true
       muted: true
