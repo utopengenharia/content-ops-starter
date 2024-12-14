@@ -75,7 +75,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: left
+          textAlign: center
       type: TitleBlock
     subtitle: >-
       Soluções inovadoras, alinhadas às normas e feitas sob medida para cada
