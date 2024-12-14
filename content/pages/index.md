@@ -28,7 +28,7 @@ sections:
       incêndios.</div>
 
     actions:
-      - label: Entre em contato por aqui
+      - label: WHATSAPP
         altText: ''
         url: >-
           https://api.whatsapp.com/send/?phone=%2B5511986195444&text&type=phone_number&app_absent=0
