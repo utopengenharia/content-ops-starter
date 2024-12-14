@@ -27,17 +27,7 @@ sections:
       complementares: elétrica, hidráulica, gás, SPDA e combate a
       incêndios.</div>
 
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: >-
-          https://api.whatsapp.com/send/?phone=%2B5511986195444&text&type=phone_number&app_absent=0
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       url: /images/Imagem10.png
       altText: Unblock your team boost your time to production preview
