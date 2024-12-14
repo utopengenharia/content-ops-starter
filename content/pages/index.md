@@ -538,7 +538,16 @@ sections:
           type: ImageBlock
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
