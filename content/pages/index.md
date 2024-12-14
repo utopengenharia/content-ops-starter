@@ -534,7 +534,7 @@ sections:
         details: ''
         description: ''
         features:
-          - '*5511986195444'
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
