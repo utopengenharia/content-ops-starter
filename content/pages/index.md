@@ -173,7 +173,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/RZK-CONCESSOES.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
