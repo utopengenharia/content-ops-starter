@@ -532,7 +532,9 @@ sections:
         title: ''
         price: Whatsapp
         details: ''
-        description: ''
+        description: |+
+          ##### \*5511986195444
+
         features:
           - ''
         image:
