@@ -610,6 +610,9 @@ sections:
         elementId: null
     colors: bg-light-fg-dark
     type: GenericSection
+    styles:
+      text:
+        textAlign: justify
   - type: DividerSection
     title: Divider
     elementId: ''
