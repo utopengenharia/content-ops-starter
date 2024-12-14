@@ -534,7 +534,6 @@ sections:
         details: No credit card required
         description: ''
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
