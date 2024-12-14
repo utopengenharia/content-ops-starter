@@ -162,8 +162,7 @@ sections:
         type: ImageBlock
       - altText: Telus logo
         type: ImageBlock
-      - url: /images/download (1).png
-        altText: Contentful logo
+      - altText: Contentful logo
         type: ImageBlock
       - url: /images/icl.jpg
         altText: Sanity logo
