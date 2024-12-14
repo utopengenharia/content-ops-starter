@@ -13,7 +13,7 @@ sections:
       SPDA e combate a incêndios.
 
     actions:
-      - label: Get started
+      - label: Entre em contato por aqui
         altText: ''
         url: /
         showIcon: false
