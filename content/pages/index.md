@@ -529,7 +529,7 @@ sections:
       dados abaixo.
     plans:
       - type: PricingPlan
-        title: 'Telefone / '
+        title: ''
         price: Whatsapp
         details: ''
         description: ''
