@@ -509,13 +509,14 @@ sections:
       - title: ''
         tagline: ''
         subtitle: ''
-        text: >
-          “Precisei de um laudo técnico para a reforma do meu apartamento e o
-          UTOP Engenharia foi a escolha certa. A equipe analisou todas as
+        text: >+
+          ### “Precisei de um laudo técnico para a reforma do meu apartamento e
+          o UTOP Engenharia foi a escolha certa. A equipe analisou todas as
           condições existentes, apontou as adequações necessárias e elaborou um
           laudo completo e muito bem detalhado. Isso facilitou a aprovação do
           projeto pelo condomínio e me deu segurança para executar a reforma sem
           imprevistos. Excelente trabalho!"”
+
         image:
           altText: Jane Doe
           styles:
