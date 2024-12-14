@@ -447,8 +447,7 @@ sections:
           pela qualidade e profissionalismo!”
         tagline: ''
         subtitle: ''
-        text: >
-          Seuperspiciatiundomniistnatuerrosivoluptataccusantiudoloremqulaudantiutotareaperiaeaquipsquexplica
+        text: ''
         image:
           type: ImageBlock
           url: /images/person-placeholder-light.png
