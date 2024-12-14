@@ -1,6 +1,14 @@
 {
     "text": "© 2024 UTOP Engenharia.\n\nTodos os direitos reservados.\n",
-    "socialLinks": [],
+    "socialLinks": [
+        {
+            "type": "Social",
+            "altText": "Email icon",
+            "url": "engenharia@utop.com.br",
+            "icon": "mail",
+            "elementId": ""
+        }
+    ],
     "legalLinks": [],
     "copyrightText": "",
     "colors": "bg-light-fg-dark",
