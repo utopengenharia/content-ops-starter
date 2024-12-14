@@ -436,11 +436,8 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: O Que Nossos Clientes Dizemefits
+      text: This Is A Big Headline
       color: text-dark
-      styles:
-        self:
-          textAlign: center
     subtitle: ''
     items:
       - type: FeaturedItem
