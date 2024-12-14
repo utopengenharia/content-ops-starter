@@ -433,115 +433,73 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: 'O que nossos clientes dizem:'
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
+  - type: CarouselSection
+    subtitle: This is a subtitle
     items:
       - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: >+
-          ##### "Contratamos a UTOP Engenharia para desenvolver todos os
-          projetos complementares da nossa nova loja, e ficamos extremamente
-          satisfeitos com o trabalho. Desde o projeto elétrico até o hidráulico
-          e de combate a incêndio, tudo foi feito com eficiência e alinhado às
-          normas técnicas. A equipe foi muito acessível durante todo o processo
-          e entregou soluções que otimizam os custos de operação da loja. Não
-          poderia estar mais feliz com o resultado!"
-
+        title: >-
+          “A designer knows he has achieved perfection not when there is nothing
+          left to add, but when there is nothing left to take away.”
+        tagline: Testimonial 1
+        subtitle: 'Maria Walters, Company'
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
+          url: /images/person-placeholder-light.png
+          altText: Maria Walters
           styles:
             self:
-              borderRadius: x-large
+              borderRadius: full
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
             flexDirection: row
             justifyContent: center
-            textAlign: justify
       - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: >+
-          ##### “Precisei de um laudo técnico para a reforma do meu apartamento
-          e a UTOP Engenharia foi a escolha certa. A equipe analisou todas as
-          condições existentes, apontou as adequações necessárias e elaborou um
-          laudo completo e muito bem detalhado. Isso facilitou a aprovação do
-          projeto pelo condomínio e me deu segurança para executar a reforma sem
-          imprevistos. Excelente trabalho!"
-
+        title: >-
+          “Quote from some important person goes right here. I love using
+          Netlify.”
+        tagline: Testimonial 2
+        subtitle: 'Jane Doe, Company'
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
         image:
           type: ImageBlock
-          altText: Featured icon two
-          elementId: ''
+          url: /images/img-placeholder-dark.png
+          altText: Jane Doe
+          styles:
+            self:
+              borderRadius: full
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
             flexDirection: row
-            textAlign: justify
             justifyContent: center
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: >+
-          ##### “A UTOP Engenharia foi essencial para o sucesso da construção do
-          nosso prédio residencial. Eles elaboraram todos os projetos
-          complementares, incluindo os sistemas elétricos, hidráulicos, de gás,
-          SPDA e combate a incêndio, com um nível de detalhamento impecável. A
-          equipe demonstrou total domínio técnico e entregou tudo dentro do
-          prazo, garantindo a aprovação nos órgãos competentes sem nenhuma
-          dificuldade. Recomendo pela qualidade e profissionalismo!”
-
-        image:
-          type: ImageBlock
-          altText: Featured icon three
-          elementId: ''
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: justify
-    actions: []
-    elementId: ''
-    variant: three-col-grid
+    variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
       self:
-        padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
