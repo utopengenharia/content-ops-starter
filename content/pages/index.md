@@ -563,7 +563,6 @@ sections:
         details: per month
         description: ''
         features:
-          - Feature two
           - Feature three
           - Feature four
         image:
