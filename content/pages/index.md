@@ -566,7 +566,9 @@ sections:
         title: ''
         price: E-mail
         details: per month
-        description: ''
+        description: |+
+          #### **utopengenharia\@gmail.com**
+
         features:
           - Feature four
         image:
