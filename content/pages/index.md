@@ -401,8 +401,7 @@ sections:
       type: TitleBlock
     subtitle: Um processo eficiente para garantir a qualidade dos seus projetos.
     text: >+
-
-      No UTOP Engenharia, seguimos uma abordagem estruturada para entregar
+      ##### No UTOP Engenharia, seguimos uma abordagem estruturada para entregar
       projetos com precisão técnica, dentro do prazo e alinhados às suas
       necessidades. Cada etapa é planejada para oferecer a melhor solução para o
       seu empreendimento.
@@ -413,6 +412,8 @@ sections:
         flexDirection: col
         justifyContent: center
       subtitle:
+        textAlign: center
+      text:
         textAlign: center
     type: GenericSection
     media:
@@ -433,50 +434,18 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - type: CarouselSection
+  - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: O Que Nossos Clientes Dizem
-      color: text-primary
+      text: 'O que nossos clientes dizem:'
+      color: text-dark
       styles:
         self:
           textAlign: center
     subtitle: ''
     items:
-      - title: ''
-        tagline: ''
-        subtitle: ''
-        text: >+
-          ##### “A UTOP Engenharia foi essencial para o sucesso da construção do
-          nosso prédio residencial. Eles elaboraram todos os projetos
-          complementares, incluindo os sistemas elétricos, hidráulicos, de gás,
-          SPDA e combate a incêndio, com um nível de detalhamento impecável. A
-          equipe demonstrou total domínio técnico e entregou tudo dentro do
-          prazo, garantindo a aprovação nos órgãos competentes sem nenhuma
-          dificuldade. Recomendo pela qualidade e profissionalismo!”
-
-        image:
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: ''
-        tagline: ''
+      - type: FeaturedItem
+        title: ''
         subtitle: ''
         text: >+
           ##### "Contratamos a UTOP Engenharia para desenvolver todos os
@@ -488,27 +457,27 @@ sections:
           poderia estar mais feliz com o resultado!"
 
         image:
-          altText: Maria Walters
+          type: ImageBlock
+          altText: Lightning bolt symbol on red background
+          elementId: ''
           styles:
             self:
-              borderRadius: full
-          type: ImageBlock
+              borderRadius: x-large
         actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
             flexDirection: row
             justifyContent: center
-        type: FeaturedItem
-      - title: ''
-        tagline: ''
+            textAlign: justify
+      - type: FeaturedItem
+        title: ''
         subtitle: ''
         text: >+
           ##### “Precisei de um laudo técnico para a reforma do meu apartamento
@@ -519,30 +488,61 @@ sections:
           imprevistos. Excelente trabalho!"
 
         image:
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
           type: ImageBlock
+          altText: Featured icon two
+          elementId: ''
         actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: justify
-            borderRadius: large
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
             flexDirection: row
+            textAlign: justify
             justifyContent: center
-        type: FeaturedItem
-    elementId: null
-    variant: next-prev-nav
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: >+
+          ##### “A UTOP Engenharia foi essencial para o sucesso da construção do
+          nosso prédio residencial. Eles elaboraram todos os projetos
+          complementares, incluindo os sistemas elétricos, hidráulicos, de gás,
+          SPDA e combate a incêndio, com um nível de detalhamento impecável. A
+          equipe demonstrou total domínio técnico e entregou tudo dentro do
+          prazo, garantindo a aprovação nos órgãos competentes sem nenhuma
+          dificuldade. Recomendo pela qualidade e profissionalismo!”
+
+        image:
+          type: ImageBlock
+          altText: Featured icon three
+          elementId: ''
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: justify
+    actions: []
+    elementId: ''
+    variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
@@ -566,9 +566,10 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      <div style="text-align: center">No UTOP Engenharia, estamos prontos para
-      entender as suas necessidades e oferecer soluções sob medida. Preencha o
-      formulário ao lado e entraremos em contato o mais breve possível!</div>
+      <div style="text-align: center">##### No UTOP Engenharia, estamos prontos
+      para entender as suas necessidades e oferecer soluções sob medida.
+      Preencha o formulário ao lado e entraremos em contato o mais breve
+      possível!</div>
 
     media:
       fields:
@@ -618,6 +619,8 @@ sections:
     styles:
       text:
         textAlign: justify
+      self:
+        justifyContent: center
   - type: DividerSection
     title: Divider
     elementId: ''
