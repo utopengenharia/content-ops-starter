@@ -531,7 +531,7 @@ sections:
       - type: PricingPlan
         title: Telefone / Whatsapp
         price: ''
-        details: Telefone / Whatsapp
+        details: '+5511986195444'
         description: ''
         features: []
         image:
