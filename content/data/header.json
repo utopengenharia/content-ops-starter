@@ -22,8 +22,10 @@
     "styles": {
         "self": {
             "padding": [
-                "pl-0",
-                "pb-0"
+                "pl-5",
+                "pb-5",
+                "pt-5",
+                "pr-5"
             ],
             "margin": [
                 "mt-20",
