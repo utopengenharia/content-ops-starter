@@ -359,7 +359,8 @@ sections:
       - type: Button
         label: CLIQUE AQUI PARA BAIXAR NOSSO PORTFÓLIO
         altText: ''
-        url: /
+        url: >-
+          https://drive.google.com/file/d/1CwtBrUxROS8QAkfDqnum65PDaHwV-OUJ/view?usp=sharing
         showIcon: false
         icon: arrowRight
         iconPosition: right
