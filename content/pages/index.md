@@ -2,6 +2,43 @@
 title: Home
 slug: /
 sections:
+  - type: ImageGallerySection
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        altText: Vise logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/logo4.png
+        altText: Telus logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Contentful logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Sanity logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Rangle logo
+        elementId: ''
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -437,17 +474,18 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: >-
-          “A UTOP Engenharia foi essencial para o sucesso da construção do nosso
-          prédio residencial. Eles elaboraram todos os projetos complementares,
-          incluindo os sistemas elétricos, hidráulicos, de gás, SPDA e combate a
-          incêndio, com um nível de detalhamento impecável. A equipe demonstrou
-          total domínio técnico e entregou tudo dentro do prazo, garantindo a
-          aprovação nos órgãos competentes sem nenhuma dificuldade. Recomendo
-          pela qualidade e profissionalismo!”
+        title: ''
         tagline: ''
         subtitle: ''
-        text: ''
+        text: >+
+          ##### “A UTOP Engenharia foi essencial para o sucesso da construção do
+          nosso prédio residencial. Eles elaboraram todos os projetos
+          complementares, incluindo os sistemas elétricos, hidráulicos, de gás,
+          SPDA e combate a incêndio, com um nível de detalhamento impecável. A
+          equipe demonstrou total domínio técnico e entregou tudo dentro do
+          prazo, garantindo a aprovação nos órgãos competentes sem nenhuma
+          dificuldade. Recomendo pela qualidade e profissionalismo!”
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -462,17 +500,18 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: >-
-          "Contratamos a UTOP Engenharia para desenvolver todos os projetos
-          complementares da nossa nova loja, e ficamos extremamente satisfeitos
-          com o trabalho. Desde o projeto elétrico até o hidráulico e de combate
-          a incêndio, tudo foi feito com eficiência e alinhado às normas
-          técnicas. A equipe foi muito acessível durante todo o processo e
-          entregou soluções que otimizam os custos de operação da loja. Não
-          poderia estar mais feliz com o resultado!" 
+        title: ''
         tagline: ''
         subtitle: ''
-        text: ''
+        text: >+
+          ##### "Contratamos a UTOP Engenharia para desenvolver todos os
+          projetos complementares da nossa nova loja, e ficamos extremamente
+          satisfeitos com o trabalho. Desde o projeto elétrico até o hidráulico
+          e de combate a incêndio, tudo foi feito com eficiência e alinhado às
+          normas técnicas. A equipe foi muito acessível durante todo o processo
+          e entregou soluções que otimizam os custos de operação da loja. Não
+          poderia estar mais feliz com o resultado!"
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -487,15 +526,16 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: >-
-          “Precisei de um laudo técnico para a reforma do meu apartamento e a
-          UTOP Engenharia foi a escolha certa. A equipe analisou todas as
+        title: ''
+        subtitle: ''
+        text: >+
+          ##### “Precisei de um laudo técnico para a reforma do meu apartamento
+          e a UTOP Engenharia foi a escolha certa. A equipe analisou todas as
           condições existentes, apontou as adequações necessárias e elaborou um
           laudo completo e muito bem detalhado. Isso facilitou a aprovação do
           projeto pelo condomínio e me deu segurança para executar a reforma sem
-          imprevistos. Excelente trabalho!" 
-        subtitle: ''
-        text: ''
+          imprevistos. Excelente trabalho!"
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -534,26 +574,72 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - title:
+  - type: PricingSection
+    title:
+      type: TitleBlock
       text: Tem dúvidas ou precisa de um orçamento?
       color: text-dark
-      type: TitleBlock
       styles:
         self:
           textAlign: center
-    subtitle: ''
-    text: >+
-      <div style="text-align: center">Na UTOP Engenharia, estamos prontos para
-      entender as suas necessidades e oferecer soluções sob medida. Entre em
-      contato agora mesmo através dos dados abaixo.</div>
+    subtitle: >-
+      Na UTOP Engenharia, estamos prontos para entender as suas necessidades e
+      oferecer soluções sob medida. Entre em contato agora mesmo através dos
+      dados abaixo.
+    plans:
+      - type: PricingPlan
+        title: ''
+        price: Whatsapp
+        details: ''
+        description: >+
+          <div style="text-align: center">####
+          <https://api.whatsapp.com/send/?phone=%2B5511986195444&text&type=phone_number&app_absent=0>+5511986195444</div>
 
+        features: []
+        image:
+          type: ImageBlock
+          url: /images/511256whats.png
+          altText: Pricing plan 1
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+            textAlign: center
+      - type: PricingPlan
+        title: ''
+        price: E-mail
+        details: ''
+        description: |+
+          #### <utopengenharia@gmail.com>
+
+        features: []
+        image:
+          type: ImageBlock
+          url: /images/511256email.png
+          altText: Pricing plan 2
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+            textAlign: center
     colors: bg-light-fg-dark
-    type: GenericSection
     styles:
-      text:
-        textAlign: justify
       self:
         justifyContent: center
+      subtitle:
+        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
