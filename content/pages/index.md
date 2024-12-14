@@ -311,7 +311,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/ifc2.png
+          url: /images/casa.png
           altText: Faux Fur Throw
           elementId: ''
           styles:
