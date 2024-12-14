@@ -27,16 +27,7 @@ sections:
       complementares: elétrica, hidráulica, gás, SPDA e combate a
       incêndios.</div>
 
-    actions:
-      - type: Button
-        label: '         CLIQUE E CONVERSE CONOSCO     '
-        altText: ''
-        url: ''
-        showIcon: false
-        icon: arrowDown
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
     media:
       url: /images/Imagem10.png
       altText: Unblock your team boost your time to production preview
