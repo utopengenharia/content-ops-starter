@@ -156,13 +156,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    badge:
-      type: Badge
-      label: Por que Escolher o UTOP Engenharia?
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
