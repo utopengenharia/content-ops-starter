@@ -367,7 +367,7 @@ sections:
           técnicas. A equipe foi muito acessível durante todo o processo e
           entregou soluções que otimizam os custos de operação da loja. Não
           poderia estar mais feliz com o resultado!"
-        tagline: Testimonial 3
+        tagline: Testimonial 2
         subtitle: ''
         text: ''
         image:
