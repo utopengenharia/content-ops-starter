@@ -560,6 +560,9 @@ sections:
       text: Tem dúvidas ou precisa de um orçamento?
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: justify
     subtitle: ''
     text: >
       No UTOP Engenharia, estamos prontos para entender as suas necessidades e
