@@ -565,10 +565,11 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >
-      No UTOP Engenharia, estamos prontos para entender as suas necessidades e
-      oferecer soluções sob medida. Preencha o formulário ao lado e entraremos
-      em contato o mais breve possível!
+    text: >+
+      <div style="text-align: center">No UTOP Engenharia, estamos prontos para
+      entender as suas necessidades e oferecer soluções sob medida. Preencha o
+      formulário ao lado e entraremos em contato o mais breve possível!</div>
+
     media:
       fields:
         - name: name
