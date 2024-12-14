@@ -562,9 +562,7 @@ sections:
         title: Professional
         price: E-mail
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: ''
         features:
           - Feature one
           - Feature two
