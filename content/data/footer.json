@@ -6,11 +6,6 @@
     "colors": "bg-light-fg-dark",
     "type": "Footer",
     "title": "",
-    "secondaryLinks": {
-        "type": "FooterLinksGroup",
-        "title": "",
-        "links": []
-    },
     "styles": {
         "self": {
             "padding": [
