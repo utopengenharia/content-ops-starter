@@ -28,7 +28,7 @@ sections:
       incêndios.</div>
 
     actions:
-      - label: WHATSAPP
+      - label: ''
         altText: ''
         url: ''
         showIcon: false
