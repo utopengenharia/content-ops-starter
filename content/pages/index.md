@@ -436,7 +436,7 @@ sections:
     title:
       type: TitleBlock
       text: O Que Nossos Clientes Dizem
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
