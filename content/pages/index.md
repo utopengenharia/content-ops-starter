@@ -247,7 +247,7 @@ sections:
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: Empresas e Parceiros que Confiam em Nós
+      text: Principais Clientes
       color: text-dark
       styles:
         self:
