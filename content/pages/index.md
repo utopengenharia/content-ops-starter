@@ -307,13 +307,6 @@ sections:
       autoplay: true
       loop: true
       muted: true
-    badge:
-      label: Nossa Metodologia de Trabalho
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
