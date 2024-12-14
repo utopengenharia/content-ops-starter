@@ -134,11 +134,6 @@ sections:
           Reduzimos prazos e garantimos conformidade com as normas técnicas,
           oferecendo soluções práticas e rápidas para seus projetos.
 
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
         actions: []
         colors: bg-neutral-fg-dark
         styles:
