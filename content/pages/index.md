@@ -9,7 +9,7 @@ sections:
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/logo4.png
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
