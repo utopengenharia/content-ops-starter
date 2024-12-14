@@ -7,6 +7,9 @@ sections:
       text: Projetos de Engenharia que Transformam Ideias em Realidade
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: justify
     subtitle: Subtitle goes here
     text: >+
       Soluções completas em projetos complementares: elétrica, hidráulica, gás,
