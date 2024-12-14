@@ -311,7 +311,9 @@ sections:
         title: Feature Item One
         tagline: ''
         subtitle: ''
-        text: ''
+        text: |+
+          ### Feature Item One
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
