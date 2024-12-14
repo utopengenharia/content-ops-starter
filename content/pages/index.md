@@ -282,11 +282,13 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Um processo eficiente para garantir a qualidade dos seus projetos.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      No UTOP Engenharia, seguimos uma abordagem estruturada para entregar
+      projetos com precisão técnica, dentro do prazo e alinhados às suas
+      necessidades. Cada etapa é planejada para oferecer a melhor solução para o
+      seu empreendimento.
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
