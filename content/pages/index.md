@@ -266,7 +266,9 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: >-
+        Conheça alguns dos nossos projetos que fizeram a diferença para nossos
+        clientes.
       color: text-dark
       styles:
         self:
