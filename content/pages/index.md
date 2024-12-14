@@ -247,7 +247,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/Ícone Prefeitura de São Paulo.png
+        url: /images/50Ícone Prefeitura de São Paulo.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
