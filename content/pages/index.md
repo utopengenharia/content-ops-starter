@@ -504,7 +504,7 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: 200%
+        title: ''
         subtitle: Faster
         text: >
           “A UTOP Engenharia foi essencial para o sucesso da construção do nosso
