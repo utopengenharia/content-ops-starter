@@ -305,6 +305,16 @@ sections:
     styles:
       self:
         justifyContent: center
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
       subtitle:
         textAlign: center
     type: ImageGallerySection
@@ -411,9 +421,9 @@ sections:
       self:
         padding:
           - pt-16
-          - pl-8
-          - pb-8
-          - pr-8
+          - pl-16
+          - pb-16
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
@@ -447,6 +457,11 @@ sections:
       self:
         flexDirection: col
         justifyContent: center
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
       subtitle:
         textAlign: center
       text:
@@ -554,6 +569,11 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
       subtitle:
         textAlign: center
     title:
@@ -637,6 +657,13 @@ sections:
     styles:
       self:
         justifyContent: center
+        margin:
+          - mb-0
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
       subtitle:
         textAlign: center
   - type: DividerSection
