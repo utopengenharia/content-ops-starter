@@ -156,7 +156,7 @@ sections:
         textAlign: center
     badge:
       type: Badge
-      label: This is a badge
+      label: Por que Escolher o UTOP Engenharia?
       color: text-primary
   - subtitle: Award winning enterprises trust us
     images:
