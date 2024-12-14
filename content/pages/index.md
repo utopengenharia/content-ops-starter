@@ -592,7 +592,7 @@ sections:
         price: Whatsapp
         details: ''
         description: |+
-          <div style="text-align: center">#### **+5511986195444**</div>
+          <div style="text-align: center">#### +5511986195444</div>
 
         features: []
         image:
