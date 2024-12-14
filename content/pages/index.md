@@ -355,7 +355,16 @@ sections:
         styles:
           self:
             textAlign: center
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
