@@ -3,7 +3,7 @@
     "dark": "#171f36",
     "neutral": "#CE4A1A80",
     "neutralAlt": "#DCDCDC",
-    "primary": "#CE4A1A",
+    "primary": "#CE4A1A00",
     "fontBody": "sans",
     "fontHeadlines": "sans",
     "h1": {
