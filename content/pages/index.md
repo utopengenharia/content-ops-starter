@@ -226,7 +226,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/prefeit guararema.png
+        url: /images/50prefeit guararema.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
