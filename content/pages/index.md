@@ -214,13 +214,6 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/download (1).png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
         url: /images/icl.png
         altText: Image alt text placeholder
         elementId: ''
