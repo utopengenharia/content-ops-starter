@@ -540,16 +540,7 @@ sections:
           type: ImageBlock
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: '+5511986195444'
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
