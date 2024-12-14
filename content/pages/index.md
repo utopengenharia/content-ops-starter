@@ -421,6 +421,7 @@ sections:
       styles:
         self:
           borderRadius: medium
+      url: /images/80FIG 1.png
   - title: Divider
     colors: bg-light-fg-dark
     styles:
