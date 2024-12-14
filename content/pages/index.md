@@ -160,8 +160,7 @@ sections:
     images:
       - altText: Empathy logo
         type: ImageBlock
-      - url: /images/cipó.jpg
-        altText: Telus logo
+      - altText: Telus logo
         type: ImageBlock
       - url: /images/download (1).png
         altText: Contentful logo
