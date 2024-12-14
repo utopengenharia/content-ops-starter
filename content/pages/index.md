@@ -166,6 +166,7 @@ sections:
         url: /images/Poupatempo.png
       - altText: Contentful logo
         type: ImageBlock
+        url: /images/maia arquitetura.png
       - type: ImageBlock
         url: /images/Metrô-SP_logo.svg.png
         altText: Image alt text placeholder
