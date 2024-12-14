@@ -349,6 +349,7 @@ sections:
           styles:
             self:
               borderRadius: medium
+          url: /images/comercial.png
         actions: []
         colors: bg-light-fg-dark
         styles:
