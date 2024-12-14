@@ -71,7 +71,7 @@ sections:
           - pr-3
   - type: FeaturedItemsSection
     title:
-      text: 'Por que escolher a '
+      text: Por que escolher a UTOP Engenharia?
       color: text-dark
       styles:
         self:
