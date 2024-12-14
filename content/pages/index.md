@@ -531,7 +531,7 @@ sections:
       - type: PricingPlan
         title: ''
         price: Telefone
-        details: No credit card required
+        details: Telefone / Whatsapp
         description: ''
         features: []
         image:
