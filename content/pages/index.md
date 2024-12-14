@@ -261,7 +261,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/bubble box.png
+        url: /images/50bubble box.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
