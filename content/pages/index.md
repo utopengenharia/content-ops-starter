@@ -592,7 +592,7 @@ sections:
         price: Whatsapp
         details: ''
         description: |
-          [*+5511986195444.*](https://utop.com.br/)
+          [+5511986195444](https://utop.com.br/)
         features: []
         image:
           type: ImageBlock
