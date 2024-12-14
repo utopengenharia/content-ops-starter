@@ -21,6 +21,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 400
     subtitle: ''
     text: >+
       <div style="text-align: center">Soluções completas em projetos
