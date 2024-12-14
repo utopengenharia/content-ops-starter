@@ -335,7 +335,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/casa3.png
+          url: /images/predio.png
           altText: Cotton Knit Throws
           elementId: ''
           styles:
