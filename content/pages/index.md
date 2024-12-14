@@ -547,7 +547,7 @@ sections:
           - pb-3
           - pr-3
   - title:
-      text: Tem dúvidas ou precisa de um orçamento? Estamos aqui para ajudar.
+      text: Tem dúvidas ou precisa de um orçamento?
       color: text-dark
       type: TitleBlock
     subtitle: >-
