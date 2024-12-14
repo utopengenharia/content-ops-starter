@@ -15,7 +15,7 @@ sections:
           - pr-3
   - type: GenericSection
     title:
-      text: Projetos de engenharia que transformam ideias em realidade
+      text: Projetos que transformam ideias em realidade
       color: text-dark
       type: TitleBlock
       styles:
@@ -25,8 +25,8 @@ sections:
     subtitle: ''
     text: >+
       <div style="text-align: center">Soluções completas em projetos
-      complementares: elétrica, hidráulica, gás, SPDA e combate a
-      incêndios.</div>
+      complementares: elétrica, hidráulica, estrutural, gás, SPDA, combate a
+      incêndios e laudos.</div>
 
     actions:
       - type: Button
@@ -102,11 +102,10 @@ sections:
       - type: FeaturedItem
         title: Experiência Comprovada
         subtitle: Mais de 100 Projetos Entregues
-        text: >+
+        text: >
           Com ampla experiência no mercado, entregamos soluções em engenharia
-          elétrica, hidráulica, SPDA e combate a incêndio, com qualidade e
-          precisão técnica.
-
+          elétrica, hidráulica, estrutural, gás, SPDA,  combate a incêndio e
+          laudos, com qualidade e precisão técnica.
         actions: []
         elementId: null
         colors: bg-neutral-fg-dark
