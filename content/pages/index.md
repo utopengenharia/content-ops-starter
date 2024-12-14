@@ -520,6 +520,9 @@ sections:
       type: TitleBlock
       text: 'O que nossos clientes dizem:'
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
