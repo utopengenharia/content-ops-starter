@@ -307,7 +307,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: ''
+        title: Residencial
         subtitle: ''
         image:
           type: ImageBlock
