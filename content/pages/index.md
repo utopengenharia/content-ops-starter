@@ -477,7 +477,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: ''
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >
           “Precisei de um laudo técnico para a reforma do meu apartamento e a
           UTOP Engenharia foi a escolha certa. A equipe analisou todas as
