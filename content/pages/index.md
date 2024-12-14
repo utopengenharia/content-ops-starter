@@ -338,8 +338,7 @@ sections:
           pela qualidade e profissionalismo!”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
-        text: |
-          abo.
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
