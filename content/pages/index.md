@@ -529,13 +529,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
     elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
