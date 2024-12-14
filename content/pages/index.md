@@ -530,6 +530,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            textAlign: justify
     actions: []
     elementId: ''
     variant: three-col-grid
