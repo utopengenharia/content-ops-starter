@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          textAlign: justify
+          textAlign: center
     subtitle: Subtitle goes here
     text: >+
       Soluções completas em projetos complementares: elétrica, hidráulica, gás,
