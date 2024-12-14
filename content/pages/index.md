@@ -316,7 +316,6 @@ sections:
           styles:
             self:
               borderRadius: medium
-          url: /images/casa.png
         actions: []
         colors: bg-light-fg-dark
         styles:
