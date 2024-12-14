@@ -532,7 +532,7 @@ sections:
               - pb-9
               - pl-9
               - pr-9
-            textAlign: justify
+            textAlign: right
             borderRadius: large
             flexDirection: row
             justifyContent: center
