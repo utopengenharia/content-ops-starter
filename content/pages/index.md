@@ -516,7 +516,6 @@ sections:
           pela qualidade e profissionalismo!”
         image:
           type: ImageBlock
-          url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
         actions: []
