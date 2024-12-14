@@ -563,7 +563,6 @@ sections:
         details: per month
         description: ''
         features:
-          - Feature three
           - Feature four
         image:
           type: ImageBlock
