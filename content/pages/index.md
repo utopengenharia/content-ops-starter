@@ -249,6 +249,9 @@ sections:
       type: TitleBlock
       text: Empresas e Parceiros que Confiam em Nós
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
