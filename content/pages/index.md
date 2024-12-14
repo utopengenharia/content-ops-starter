@@ -543,10 +543,9 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      <div style="text-align: center">##### No UTOP Engenharia, estamos prontos
-      para entender as suas necessidades e oferecer soluções sob medida.
-      Preencha o formulário ao lado e entraremos em contato o mais breve
-      possível!</div>
+      <div style="text-align: center">Na UTOP Engenharia, estamos prontos para
+      entender as suas necessidades e oferecer soluções sob medida. Entre em
+      contato agora mesmo através dos dados abaixo.</div>
 
     colors: bg-light-fg-dark
     type: GenericSection
@@ -555,48 +554,6 @@ sections:
         textAlign: justify
       self:
         justifyContent: center
-    media:
-      type: FormBlock
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
   - type: DividerSection
     title: Divider
     elementId: ''
