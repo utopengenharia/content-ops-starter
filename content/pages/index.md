@@ -634,7 +634,9 @@ sections:
           - pr-3
 seo:
   metaTitle: Home
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    UTOP Engenharia - Projetos complementares de engenharia, hidráulica,
+    elétrica, bombeiro, gás, SPDA e estrutural
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
