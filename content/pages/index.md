@@ -548,54 +548,6 @@ sections:
       Preencha o formulário ao lado e entraremos em contato o mais breve
       possível!</div>
 
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Seu nome
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: 'Seu e-mail '
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Mensagem
-          width: full
-          type: TextareaFormControl
-        - type: CheckboxFormControl
-          name: updates
-          label: 'Eu concordo em encaminhar essa solicitação. '
-          isRequired: false
-          width: full
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Enviar Mensagem
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
     colors: bg-light-fg-dark
     type: GenericSection
     styles:
