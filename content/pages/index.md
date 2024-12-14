@@ -619,6 +619,8 @@ sections:
     styles:
       text:
         textAlign: justify
+      self:
+        justifyContent: flex-end
   - type: DividerSection
     title: Divider
     elementId: ''
