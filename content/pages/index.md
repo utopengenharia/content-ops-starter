@@ -298,7 +298,9 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: >-
+        Conheça alguns dos nossos projetos que fizeram a diferença para nossos
+        clientes.
       color: text-dark
       styles:
         self:
