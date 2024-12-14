@@ -76,7 +76,7 @@ sections:
       title: Title of the video
       url: ''
       autoplay: true
-      loop: false
+      loop: true
       muted: true
       controls: false
       aspectRatio: '16:9'
