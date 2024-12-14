@@ -530,7 +530,7 @@ sections:
     plans:
       - type: PricingPlan
         title: 'Telefone / '
-        price: ''
+        price: Whatsapp
         details: ''
         description: ''
         features: []
