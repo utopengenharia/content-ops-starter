@@ -591,7 +591,9 @@ sections:
         title: ''
         price: Whatsapp
         details: ''
-        description: '###### [*© 2024 UTOP Engenharia.*](https://utop.com.br/)'
+        description: |+
+          ###### [*© 2024 UTOP Engenharia.*](https://utop.com.br/)
+
         features: []
         image:
           type: ImageBlock
