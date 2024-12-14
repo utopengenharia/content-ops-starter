@@ -51,7 +51,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Soluções inovadoras, alinhadas às normas e feitas sob medida para cada
+      cliente."
     items:
       - type: FeaturedItem
         title: Experiência Comprovada
