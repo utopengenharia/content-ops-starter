@@ -495,10 +495,7 @@ sections:
           projeto pelo condomínio e me deu segurança para executar a reforma sem
           imprevistos. Excelente trabalho!" 
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           type: ImageBlock
           url: /images/icon1.svg
