@@ -233,7 +233,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/localiza.png
+        url: /images/50localiza.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
