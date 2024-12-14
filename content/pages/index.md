@@ -15,7 +15,7 @@ sections:
           - pr-3
   - type: GenericSection
     title:
-      text: Projetos de Engenharia que Transformam Ideias em Realidade
+      text: Projetos de engenharia que transformam ideias em realidade
       color: text-dark
       type: TitleBlock
       styles:
