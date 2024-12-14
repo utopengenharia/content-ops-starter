@@ -120,14 +120,6 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
-          styles:
-            self:
-              borderRadius: x-large
       - title: Agilidade e Conformidade
         subtitle: 20% Mais Ágil
         text: >+
