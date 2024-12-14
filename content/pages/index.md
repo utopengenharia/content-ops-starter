@@ -119,7 +119,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-            textAlign: left
+            textAlign: center
       - title: Agilidade e Conformidade
         subtitle: 20% Mais Ágil
         text: >+
