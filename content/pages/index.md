@@ -83,7 +83,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Experiência Comprovada
-        subtitle: Mais de 500 Projetos Entregues
+        subtitle: Mais de 100 Projetos Entregues
         text: >+
           Com ampla experiência no mercado, entregamos soluções em engenharia
           elétrica, hidráulica, SPDA e combate a incêndio, com qualidade e
