@@ -74,7 +74,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: ''
+      url: ScreenRecorderProject44
       autoplay: true
       loop: true
       muted: true
