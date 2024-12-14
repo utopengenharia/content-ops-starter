@@ -552,8 +552,8 @@ sections:
       type: TitleBlock
     subtitle: >-
       No UTOP Engenharia, estamos prontos para entender as suas necessidades e
-      oferecer soluções sob medida. Preencha o formulário abaixo e entraremos em
-      contato o mais breve possível!
+      oferecer soluções sob medida. Preencha o formulário ao lado e entraremos
+      em contato o mais breve possível!
     text: ''
     media:
       fields:
