@@ -97,7 +97,7 @@ sections:
       type: TitleBlock
     subtitle: >-
       Soluções inovadoras, alinhadas às normas e feitas sob medida para cada
-      cliente."
+      cliente.
     items:
       - type: FeaturedItem
         title: Experiência Comprovada
