@@ -540,7 +540,7 @@ sections:
           altText: Pricing plan 1
         actions:
           - type: Button
-            label: Get started
+            label: '+5511986195444'
             altText: ''
             url: /
             showIcon: false
