@@ -29,7 +29,7 @@ sections:
 
     actions:
       - type: Button
-        label: ________________Get started
+        label: Get started
         altText: ''
         url: >-
           https://api.whatsapp.com/send/?phone=%2B5511986195444&text&type=phone_number&app_absent=0
