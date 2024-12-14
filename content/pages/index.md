@@ -39,7 +39,7 @@ sections:
         elementId: ''
         type: Button
       - type: Button
-        label: E
+        label: ENTRE EM CONTATO
         altText: ''
         url: /
         showIcon: false
