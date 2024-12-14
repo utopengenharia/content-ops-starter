@@ -343,6 +343,9 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-light-fg-dark
+        styles:
+          self:
+            textAlign: center
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: ''
