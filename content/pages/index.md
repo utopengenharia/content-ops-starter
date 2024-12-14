@@ -535,8 +535,7 @@ sections:
         description: |+
           ##### +5511986195444
 
-        features:
-          - ''
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
