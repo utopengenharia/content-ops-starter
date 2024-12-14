@@ -37,7 +37,7 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: left
-        style: secondary
+        style: primary
         elementId: ''
     badge:
       label: ''
@@ -365,7 +365,7 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
     elementId: ''
     variant: three-col-grid
@@ -434,27 +434,22 @@ sections:
           - pr-7
     type: DividerSection
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
+          “A UTOP Engenharia foi essencial para o sucesso da construção do nosso
+          prédio residencial. Eles elaboraram todos os projetos complementares,
+          incluindo os sistemas elétricos, hidráulicos, de gás, SPDA e combate a
+          incêndio, com um nível de detalhamento impecável. A equipe demonstrou
+          total domínio técnico e entregou tudo dentro do prazo, garantindo a
+          aprovação nos órgãos competentes sem nenhuma dificuldade. Recomendo
+          pela qualidade e profissionalismo!”
+        tagline: ''
+        subtitle: ''
+        text: ''
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -468,23 +463,18 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
-        tagline: Testimonial 2
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
+          "Contratamos a UTOP Engenharia para desenvolver todos os projetos
+          complementares da nossa nova loja, e ficamos extremamente satisfeitos
+          com o trabalho. Desde o projeto elétrico até o hidráulico e de combate
+          a incêndio, tudo foi feito com eficiência e alinhado às normas
+          técnicas. A equipe foi muito acessível durante todo o processo e
+          entregou soluções que otimizam os custos de operação da loja. Não
+          poderia estar mais feliz com o resultado!" 
+        tagline: ''
+        subtitle: ''
+        text: ''
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -496,6 +486,29 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+      - type: FeaturedItem
+        title: >-
+          “Precisei de um laudo técnico para a reforma do meu apartamento e a
+          UTOP Engenharia foi a escolha certa. A equipe analisou todas as
+          condições existentes, apontou as adequações necessárias e elaborou um
+          laudo completo e muito bem detalhado. Isso facilitou a aprovação do
+          projeto pelo condomínio e me deu segurança para executar a reforma sem
+          imprevistos. Excelente trabalho!" 
+        subtitle: ''
+        text: ''
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
@@ -503,6 +516,13 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    title:
+      type: TitleBlock
+      text: 'O que nossos clientes dizem:'
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
