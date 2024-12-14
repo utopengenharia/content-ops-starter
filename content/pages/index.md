@@ -594,24 +594,6 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - title:
-      text: Tem dúvidas ou precisa de um orçamento?
-      color: text-dark
-      type: TitleBlock
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    text: |+
-      <div style="text-align: center"></div>
-
-    colors: bg-light-fg-dark
-    type: GenericSection
-    styles:
-      text:
-        textAlign: justify
-      self:
-        justifyContent: center
   - type: DividerSection
     title: Divider
     elementId: ''
