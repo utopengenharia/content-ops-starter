@@ -620,7 +620,7 @@ sections:
       text:
         textAlign: justify
       self:
-        justifyContent: flex-end
+        justifyContent: center
   - type: DividerSection
     title: Divider
     elementId: ''
