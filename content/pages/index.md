@@ -637,7 +637,7 @@ seo:
   metaDescription: >-
     UTOP Engenharia - Projetos complementares de engenharia, hidráulica,
     elétrica, bombeiro, gás, SPDA e estrutural
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/T3.png
   type: Seo
 type: PageLayout
 ---
