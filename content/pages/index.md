@@ -163,6 +163,7 @@ sections:
         url: /images/embraer-logo-0.png
       - altText: Telus logo
         type: ImageBlock
+        url: /images/Poupatempo.png
       - altText: Contentful logo
         type: ImageBlock
       - type: ImageBlock
