@@ -173,7 +173,7 @@ sections:
       - url: /images/download (1).png
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/icl.jpg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
