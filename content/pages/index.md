@@ -205,9 +205,6 @@ sections:
           - pr-3
   - subtitle: Empresas e Parceiros que Confiam em Nós
     images:
-      - altText: Empathy logo
-        type: ImageBlock
-        url: /images/100embraer-logo-0.png
       - altText: Telus logo
         type: ImageBlock
         url: /images/Poupatempo.png
