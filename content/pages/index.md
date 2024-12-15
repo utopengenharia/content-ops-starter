@@ -691,6 +691,7 @@ sections:
               - pr-0
             borderRadius: x-large
             flexDirection: row
+            textAlign: left
     actions: []
     variant: two-col-grid
     colors: bg-light-fg-dark
