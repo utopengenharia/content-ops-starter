@@ -609,7 +609,7 @@ sections:
     plans:
       - type: PricingPlan
         title: ''
-        price: Whatsapp
+        price: ''
         details: ''
         description: >
           ####
