@@ -638,20 +638,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |+
-          <html lang="en">
-          <head>
-              <meta charset="UTF-8">
-              <meta name="viewport" content="width=device-width, initial-scale=1.0">
-              <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
-              <title>Ícone do WhatsApp</title>
-          </head>
-          <body>
-              <a href="https://wa.me/5511999999999" target="_blank" style="text-decoration: none; color: inherit;">
-                  <i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Entre em contato
-              </a>
-          </body>
-          </html>
-          <div style="text-align: center">##### +5511986195444</div>
+
 
         image:
           type: ImageBlock
