@@ -636,7 +636,7 @@ sections:
             textAlign: center
       - type: PricingPlan
         title: ''
-        price: E-mail
+        price: ''
         details: ''
         description: >+
           <div style="text-align: center">#### E-mail####
