@@ -662,6 +662,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: flex-end
+            textAlign: right
       - type: FeaturedItem
         title: ''
         tagline: ''
