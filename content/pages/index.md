@@ -654,6 +654,11 @@ sections:
           - ml-0
           - mb-0
           - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
