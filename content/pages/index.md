@@ -650,10 +650,10 @@ sections:
       self:
         alignItems: center
         margin:
-          - mt-16
-          - ml-16
-          - mb-16
-          - mr-16
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
