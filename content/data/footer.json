@@ -9,7 +9,7 @@
     "styles": {
         "self": {
             "padding": [
-                "pt-0",
+                "pt-1",
                 "pl-0"
             ],
             "margin": [
