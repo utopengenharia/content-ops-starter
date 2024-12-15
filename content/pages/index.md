@@ -141,7 +141,7 @@ sections:
         subtitle: ''
         text: >
           ### <div style="text-align: center; color: white;">Experiência
-          comprovada.</div>
+          comprovada</div>
 
 
           #### <div style="text-align: center; color: white;">+ de 200 Projetos
