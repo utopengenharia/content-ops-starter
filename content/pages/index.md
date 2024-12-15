@@ -662,7 +662,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: ''
         tagline: ''
         subtitle: ''
         text: >
