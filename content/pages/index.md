@@ -744,10 +744,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: >-
-      Na UTOP Engenharia, estamos prontos para entender as suas necessidades e
-      oferecer soluções sob medida. Entre em contato agora mesmo através dos
-      dados abaixo.
+    subtitle: ''
     plans:
       - type: PricingPlan
         title: ''
