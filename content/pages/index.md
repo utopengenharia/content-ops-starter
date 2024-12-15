@@ -612,7 +612,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Tem dúvidas ou precisa de um orçamento?
       color: text-primary
       styles:
         self:
