@@ -661,6 +661,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            justifyContent: flex-end
       - type: FeaturedItem
         title: ''
         tagline: ''
