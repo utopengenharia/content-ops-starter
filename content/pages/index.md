@@ -632,13 +632,6 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: WHATSAPP
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        showIcon: false
-      - type: Button
         label: Get started
         altText: ''
         url: /
