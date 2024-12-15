@@ -676,6 +676,8 @@ sections:
           styles:
             self:
               borderRadius: x-large
+              margin:
+                - ml-10
         actions: []
         colors: bg-light-fg-dark
         styles:
