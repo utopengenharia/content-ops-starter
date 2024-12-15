@@ -612,7 +612,7 @@ sections:
         price: ''
         details: ''
         description: >+
-          <div style="text-align: center">Whatsapp</div>
+          <div style="text-align: center">### Whatsapp</div>
 
 
           <div style="text-align: center">####
