@@ -622,15 +622,14 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: >+
+    text: >
       <div style="text-align: center">## Tem dúvidas ou precisa de um
       orçamento?</div>
 
 
       <div style="text-align: center">##### Na UTOP Engenharia, estamos prontos
       para entender as suas necessidades e oferecer soluções sob medida. Entre
-      em contato agora mesmo através dos botões abaixo.</div>
-
+      em contato agora mesmo através dos botões abaixo</div>
     actions:
       - type: Button
         label: WHATSAPP
