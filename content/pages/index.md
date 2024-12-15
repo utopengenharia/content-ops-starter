@@ -637,10 +637,12 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: >+
-          <div style="text-align: center">### Whatsapp####
-          [<sub>+5511986195444</sub>](https://api.whatsapp.com/send/?phone=%2B5511986195444\&text\&type=phone_number\&app_absent=0)</div>
+        text: >
+          <div style="text-align: center">### Whatsapp</div>
 
+
+          <div style="text-align: center">####
+          [+5511986195444](https://api.whatsapp.com/send/?phone=%2B5511986195444\&text\&type=phone_number\&app_absent=0)</div>
         image:
           type: ImageBlock
           url: /images/whats.png
