@@ -649,7 +649,7 @@ sections:
       - type: Button
         label: E-MAIL
         altText: ''
-        url: /
+        url: engenharia@utop.com.br
         showIcon: false
         icon: arrowRight
         iconPosition: right
