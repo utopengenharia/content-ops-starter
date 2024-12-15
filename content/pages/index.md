@@ -657,7 +657,7 @@ sections:
               - pb-0
               - pr-0
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: col
             justifyContent: flex-start
             textAlign: left
       - type: FeaturedItem
