@@ -137,7 +137,9 @@ sections:
       cliente.
     items:
       - type: FeaturedItem
-        title: Experiência Comprovada
+        title: >-
+          <div style="text-align: center; color: white;">Experiência
+          Comprovada</div>
         subtitle: Mais de 100 Projetos Entregues
         text: >+
           <div style="text-align: center; color: white;">Com ampla experiência
