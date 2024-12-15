@@ -617,7 +617,10 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: >-
+      Na UTOP Engenharia, estamos prontos para entender as suas necessidades e
+      oferecer soluções sob medida. Entre em contato agora mesmo através dos
+      dados abaixo.
     items:
       - type: FeaturedItem
         title: Feature Item One
