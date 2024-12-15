@@ -660,7 +660,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-            textAlign: left
+            textAlign: center
       - type: FeaturedItem
         title: 20x
         subtitle: The Job Stuff
