@@ -686,7 +686,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             textAlign: center
-            justifyContent: flex-start
+            justifyContent: center
     actions: []
     variant: two-col-grid
     colors: bg-light-fg-dark
