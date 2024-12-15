@@ -681,21 +681,6 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - type: CarouselSection
-    items: []
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-      subtitle:
-        textAlign: center
-    subtitle: ' <div class="center-text">        São Paulo - SP - Mogi das Cruzes - 11 986195444 <br>        engenharia@utop.com.br - © 2024 UTOP Engenharia <br>        engenharia@utop.com.br    </div>'
 seo:
   metaTitle: Home
   metaDescription: >-
