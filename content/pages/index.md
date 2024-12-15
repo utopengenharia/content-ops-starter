@@ -685,7 +685,7 @@ sections:
               - pr-0
             borderRadius: x-large
             flexDirection: row
-            textAlign: left
+            textAlign: center
             justifyContent: flex-start
     actions: []
     variant: two-col-grid
