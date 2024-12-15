@@ -617,7 +617,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/511256whats.png
+          url: /images/5156whats.png
           altText: Pricing plan 1
         actions: []
         colors: bg-light-fg-dark
