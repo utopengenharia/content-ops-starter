@@ -637,7 +637,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: WHATSAPP
         altText: ''
         url: /
         showIcon: false
