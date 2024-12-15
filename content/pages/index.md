@@ -640,7 +640,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/511256email.png
+          url: /images/511128email.png
           altText: Pricing plan 2
         actions: []
         colors: bg-light-fg-dark
