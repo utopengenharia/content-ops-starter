@@ -672,11 +672,32 @@ sections:
         justifyContent: center
   - type: GenericSection
     subtitle: ''
-    text: >+
-      <div style="text-align: center">###### São Paulo/Mogi das Cruzes (SP)-11
-      986195444-<engenharia@utop.com.br>-© 2024 UTOP
-      Engenharia</engenharia@utop.com.br></div>
-
+    text: |2-
+       <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Centralizar Texto</title>
+          <style>
+              body {
+                  display: flex;
+                  justify-content: center;
+                  align-items: center;
+                  height: 100vh;
+                  margin: 0;
+                  font-family: Arial, sans-serif;
+              }
+              .center-text {
+                  text-align: center;
+                  padding: 10px;
+                  line-height: 1.5;
+              }
+          </style>
+      </head>
+      <body>
+          <div class="center-text">
+              São Paulo - SP - Mogi das Cruzes - 11 986195444 <br>
+              engenharia@utop.com.br - © 2024 UTOP Engenharia <br>
+              engenharia@utop.com.br
+          </div>
     actions: []
     colors: bg-light-fg-dark
     styles:
