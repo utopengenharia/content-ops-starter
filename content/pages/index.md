@@ -636,6 +636,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        showIcon: true
       - type: Button
         label: Get started
         altText: ''
