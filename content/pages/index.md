@@ -637,14 +637,11 @@ sections:
         title: Whatsapp
         tagline: ''
         subtitle: ''
-        text: >-
-          </p>
-
-          src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+        text: >
+          </p>src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
           alt="WhatsApp" style="width: 20px; height: 20px; vertical-align:
           middle; margin-right: 5px;">
-              Entre em contato pelo WhatsApp
-          </p>
+              Entre em contato pelo WhatsApp</p>
         image:
           type: ImageBlock
           altText: Background alt text
