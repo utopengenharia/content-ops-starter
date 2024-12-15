@@ -642,7 +642,6 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/whats.png
           altText: Background alt text
           styles:
             self:
