@@ -166,7 +166,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: center
-      - title: Agilidade e Conformidade
+      - title: ''
         subtitle: 20% Mais Ágil
         text: >+
           ### <div style="text-align: center; color: white;">Agilidade e
