@@ -199,8 +199,7 @@ sections:
           Economia.</div>
 
 
-          #### <div style="text-align: center; color: white;">30% de
-          Economia</div>
+          #### <div style="text-align: center; color: white;">+ Economia</div>
 
 
           <div style="text-align: center; color: white;">Projetos inteligentes
