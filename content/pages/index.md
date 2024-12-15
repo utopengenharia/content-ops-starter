@@ -672,11 +672,13 @@ sections:
         justifyContent: center
   - type: GenericSection
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |2+
+       <div class="center-text">
+              São Paulo - SP - Mogi das Cruzes - 11 986195444 - engenharia\@utop.com.br - © 2024 UTOP Engenharia <br>
+          </div>
+
+
+
     actions: []
     colors: bg-light-fg-dark
     styles:
