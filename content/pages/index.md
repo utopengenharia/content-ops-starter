@@ -637,7 +637,9 @@ sections:
         title: Whatsapp
         tagline: ''
         subtitle: ''
-        text: |2+
+        text: |-
+          <html lang="en">
+          <head>
               <meta charset="UTF-8">
               <meta name="viewport" content="width=device-width, initial-scale=1.0">
               <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
@@ -650,7 +652,6 @@ sections:
           </body>
           </html>
           <div style="text-align: center">##### +5511986195444</div>
-
         image:
           type: ImageBlock
           altText: Background alt text
