@@ -2,7 +2,7 @@
     "text": "<div style=\"text-align: center\"></div>\n\n",
     "socialLinks": [],
     "legalLinks": [],
-    "copyrightText": "<div style=\"text-align: center\">São Paulo - SP - Mogi das Cruzes - 11 986195444 - <engenharia@utop.com.br> - © 2024 UTOP Engenharia</div>\n\n",
+    "copyrightText": " <div class=\"center-text\">\n        São Paulo - SP - Mogi das Cruzes - 11 986195444 <br>\n        engenharia@utop.com.br - © 2024 UTOP Engenharia <br>\n        engenharia@utop.com.br\n    </div>",
     "colors": "bg-light-fg-dark",
     "type": "Footer",
     "title": "",
