@@ -139,19 +139,19 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
+        text: >
           ### <div style="text-align: center; color: white;">Experiência
           comprovada.</div>
 
 
-          #### <div style="text-align: center; color: white;">Mais de 100
-          Projetos Entregues</div>
+          #### <div style="text-align: center; color: white;">Muitos Projetos
+          Entregues</div>
+
 
           <div style="text-align: center; color: white;">Com ampla experiência
           no mercado, entregamos soluções em engenharia elétrica, hidráulica,
           estrutural, gás, SPDA,  combate a incêndio e laudos, com qualidade e
           precisão técnica.</div>
-
         actions: []
         elementId: null
         colors: bg-neutral-fg-dark
