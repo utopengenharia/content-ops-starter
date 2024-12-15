@@ -144,7 +144,7 @@ sections:
           comprovada.</div>
 
 
-          #### <div style="text-align: center; color: white;">+ de 100 Projetos
+          #### <div style="text-align: center; color: white;">+ de 200 Projetos
           Realizados</div>
 
 
@@ -172,9 +172,7 @@ sections:
           Conformidade.</div>
 
 
-          #### <div style="text-align: center; color: white;">20% Mais
-          Ágil</div>
-
+          #### <div style="text-align: center; color: white;">+ Ágil</div>
 
 
           <div style="text-align: center; color: white;">Reduzimos prazos e
@@ -201,8 +199,7 @@ sections:
           Economia.</div>
 
 
-          #### <div style="text-align: center; color: white;">30% de
-          Economia</div>
+          #### <div style="text-align: center; color: white;">+ Economia</div>
 
 
           <div style="text-align: center; color: white;">Projetos inteligentes
@@ -667,51 +664,9 @@ sections:
         padding:
           - pt-16
           - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    items: []
-    actions: []
-    badge:
-      type: Badge
-      label: São Paulo - SP - 11986195444 - engenharia@utop.com.br - ©UTOP Engenharia
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
           - pb-0
-          - pt-0
-          - pl-16
           - pr-16
         justifyContent: center
-      subtitle:
-        textAlign: center
 seo:
   metaTitle: Home
   metaDescription: >-
