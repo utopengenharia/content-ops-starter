@@ -638,10 +638,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          <div style="text-align: left">### Whatsapp</div>
-
-
-          <div style="text-align: left">####
+          <div style="text-align: center">### Whatsapp####
           [<sub>+5511986195444</sub>](https://api.whatsapp.com/send/?phone=%2B5511986195444\&text\&type=phone_number\&app_absent=0)</div>
 
         image:
