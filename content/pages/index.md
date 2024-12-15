@@ -140,6 +140,11 @@ sections:
         title: ''
         subtitle: Mais de 100 Projetos Entregues
         text: >+
+          <div style="text-align: center; color: white;">Experiência
+          comprovada.</div>
+
+
+
           <div style="text-align: center; color: white;">Com ampla experiência
           no mercado, entregamos soluções em engenharia elétrica, hidráulica,
           estrutural, gás, SPDA,  combate a incêndio e laudos, com qualidade e
