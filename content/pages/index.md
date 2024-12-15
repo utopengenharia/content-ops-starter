@@ -632,7 +632,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Get started
+        label: WHATSAPP
         url: /
         icon: arrowRight
         iconPosition: right
