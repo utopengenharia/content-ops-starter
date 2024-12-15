@@ -638,8 +638,9 @@ sections:
         title: ''
         price: E-mail
         details: ''
-        description: |+
-          #### <utopengenharia@gmail.com>
+        description: >+
+          <div style="text-align: center">#### E-mail####
+          <utopengenharia@gmail.com></div>
 
         features: []
         image:
