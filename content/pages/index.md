@@ -144,8 +144,8 @@ sections:
           comprovada.</div>
 
 
-          #### <div style="text-align: center; color: white;">Mais de 100
-          Projetos Realizados</div>
+          #### <div style="text-align: center; color: white;">+ de 100 Projetos
+          Realizados</div>
 
 
           <div style="text-align: center; color: white;">Com vasta experiência
