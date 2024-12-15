@@ -148,9 +148,9 @@ sections:
           Realizados</div>
 
 
-          <div style="text-align: center; color: white;">Com vasta experiência
-          no mercado, oferecemos soluções em engenharia com mais de 100 projetos
-          e laudos concluídos, garantindo qualidade e precisão técnica.</div>
+          <div style="text-align: center; color: white;">Com sólida atuação no
+          mercado, entregamos soluções em engenharia com qualidade e precisão
+          técnica, sempre atendendo às necessidades dos nossos clientes.</div>
         actions: []
         elementId: null
         colors: bg-neutral-fg-dark
