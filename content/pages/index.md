@@ -167,7 +167,7 @@ sections:
             justifyContent: center
             textAlign: center
       - title: ''
-        subtitle: 20% Mais Ágil
+        subtitle: ''
         text: >+
           ### <div style="text-align: center; color: white;">Agilidade e
           Conformidade.</div>
