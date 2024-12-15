@@ -640,7 +640,7 @@ sections:
         details: ''
         description: >+
           <div style="text-align: center">###
-          E-mail<utopengenharia@gmail.com></div>
+          E-mail<utopengenharia@gmail.com></utopengenharia@gmail.com></div>
 
         features: []
         image:
