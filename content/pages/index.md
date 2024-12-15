@@ -620,7 +620,7 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - type: PricingSection
+  - type: FeaturedItemsSection
     title:
       type: TitleBlock
       text: Tem dúvidas ou precisa de um orçamento?
@@ -632,70 +632,72 @@ sections:
       Na UTOP Engenharia, estamos prontos para entender as suas necessidades e
       oferecer soluções sob medida. Entre em contato agora mesmo através dos
       dados abaixo.
-    plans:
-      - type: PricingPlan
-        title: ''
-        price: ''
-        details: ''
-        description: >+
-          <div style="text-align: center">### Whatsapp</div>
+    items:
+      - type: FeaturedItem
+        title: Whatsapp
+        tagline: ''
+        subtitle: ''
+        text: |+
+          ##### +5511986195444
 
-
-          <div style="text-align: center">####
-          [+5511986195444](https://api.whatsapp.com/send/?phone=%2B5511986195444\&text\&type=phone_number\&app_absent=0)</div>
-
-        features: []
         image:
           type: ImageBlock
-          url: /images/5156whats.png
-          altText: Pricing plan 1
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:
           self:
             padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
             textAlign: center
-      - type: PricingPlan
-        title: ''
-        price: ''
-        details: ''
-        description: |+
-          <div style="text-align: center">### E-mail</div>
+      - type: FeaturedItem
+        title: E-mail
+        tagline: ''
+        subtitle: ''
+        text: |+
+          <div style="text-align: center">##### <engenharia@utop.com.br></div>
 
-          <div style="text-align: center">#### <engenharia@utop.com.br></div>
-
-        features: []
         image:
           type: ImageBlock
-          url: /images/511128email.png
-          altText: Pricing plan 2
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+              margin:
+                - ml-10
         actions: []
         colors: bg-light-fg-dark
         styles:
           self:
             padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            borderRadius: x-large
+            flexDirection: row
             textAlign: center
+            justifyContent: center
+    actions: []
+    variant: two-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
-        justifyContent: center
-        margin:
-          - mb-0
         padding:
-          - pb-16
           - pt-16
           - pl-16
+          - pb-16
           - pr-16
+        justifyContent: center
       subtitle:
         textAlign: center
   - type: DividerSection
