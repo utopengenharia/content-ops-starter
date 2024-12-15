@@ -664,7 +664,9 @@ sections:
         tagline: ''
         subtitle: ''
         text: |+
-          <div style="text-align: left"></div>
+          <div style="text-align: center">##### engenharia\@utop.com.br
+
+          </div>
 
         image:
           type: ImageBlock
