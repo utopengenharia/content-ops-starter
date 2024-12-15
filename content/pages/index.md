@@ -550,8 +550,8 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: >-
-          <div style="text-align: center; color: white;">
+        text: >+
+          ##### <div style="text-align: center; color: white;">
 
           "Contratamos a UTOP Engenharia para desenvolver todos os projetos
           complementares da nossa nova loja, e ficamos extremamente satisfeitos
@@ -562,6 +562,7 @@ sections:
           poderia estar mais feliz com o resultado!"
 
           </div>
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
