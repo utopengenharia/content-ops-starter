@@ -201,7 +201,7 @@ sections:
           Economia.</div>
 
 
-          #### <div style="text-align: center; color: white;">Até 30% de
+          #### <div style="text-align: center; color: white;">30% de
           Economia</div>
 
 
