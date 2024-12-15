@@ -672,24 +672,7 @@ sections:
         justifyContent: center
   - type: GenericSection
     subtitle: ''
-    text: |2+
-          <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <title>Centralizar Texto</title>
-          <style>
-              body {
-                  display: flex;
-                  justify-content: center;
-                  align-items: center;
-                  height: 100vh;
-                  margin: 0;
-                  font-family: Arial, sans-serif;
-              }
-              .center-text {
-                  text-align: center;
-                  padding: 10px;
-                  line-height: 1.5;
-              }
-          </style>
+    text: |+
       </head>
       <body>
           <div class="center-text">
