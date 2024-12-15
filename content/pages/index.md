@@ -664,7 +664,7 @@ sections:
       - type: FeaturedItem
         title: Feature Item Two
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           <div style="text-align: center">### E-mail</div>
 
