@@ -682,6 +682,7 @@ sections:
     styles:
       self:
         alignItems: center
+        justifyContent: center
   - type: DividerSection
     title: Divider
     elementId: ''
