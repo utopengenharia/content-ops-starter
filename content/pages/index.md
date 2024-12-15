@@ -672,12 +672,9 @@ sections:
         justifyContent: center
   - type: GenericSection
     subtitle: ''
-    text: |2+
-       <div class="center-text">
-              São Paulo - SP - Mogi das Cruzes - 11 986195444 - engenharia\@utop.com.br - © 2024 UTOP Engenharia <br>
-          </div>
-
-
+    text: >+
+      <div style="text-align: center">###### São Paulo / Mogi das Cruzes (SP) -
+      11 986195444 - engenharia\@utop.com.br - © 2024 UTOP Engenharia</div>
 
     actions: []
     colors: bg-light-fg-dark
