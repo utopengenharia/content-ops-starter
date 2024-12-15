@@ -138,7 +138,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: Mais de 100 Projetos Entregues
+        subtitle: ''
         text: >+
           <div style="text-align: center; color: white;">Experiência
           comprovada.</div>
