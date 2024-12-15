@@ -613,7 +613,7 @@ sections:
     title:
       type: TitleBlock
       text: Tem dúvidas ou precisa de um orçamento?
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
