@@ -670,7 +670,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon2.svg
+          url: /images/email.png
           altText: Featured icon two
           elementId: ''
         actions: []
