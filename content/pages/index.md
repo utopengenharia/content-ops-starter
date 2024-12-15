@@ -664,7 +664,7 @@ sections:
         tagline: ''
         subtitle: E-mail
         text: |+
-          <div style="text-align: left">####</div>
+          <div style="text-align: left"></div>
 
         image:
           type: ImageBlock
