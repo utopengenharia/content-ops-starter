@@ -199,7 +199,7 @@ sections:
             textAlign: center
             justifyContent: center
         type: FeaturedItem
-      - title: Sustentabilidade e Economia
+      - title: ''
         subtitle: Até 30% de Economia
         text: >+
           ### <div style="text-align: center; color: white;">Sustentabilidade e
