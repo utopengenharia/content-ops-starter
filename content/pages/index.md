@@ -658,7 +658,7 @@ sections:
               - pr-0
             borderRadius: x-large
             flexDirection: row
-            justifyContent: center
+            justifyContent: flex-end
             textAlign: left
       - type: FeaturedItem
         title: E-mail
