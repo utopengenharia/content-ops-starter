@@ -668,7 +668,6 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/email.png
           altText: Background alt text
           styles:
             self:
