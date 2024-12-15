@@ -623,7 +623,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Tem dúvidas ou precisa de um orçamento?
       color: text-dark
       styles:
         self:
