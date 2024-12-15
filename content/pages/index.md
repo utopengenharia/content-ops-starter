@@ -680,16 +680,7 @@ sections:
           textAlign: center
     subtitle: ''
     items: []
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     badge:
       type: Badge
       label: "São Paulo\_ (SP) - 11 986195444 - engenharia@utop.com.br - © 2024 UTOP Engenharia"
