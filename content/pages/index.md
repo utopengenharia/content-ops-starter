@@ -140,10 +140,12 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          <div style="text-align: center; color: white;">Experiência
+          ### <div style="text-align: center; color: white;">Experiência
           comprovada.</div>
 
 
+          #### <div style="text-align: center; color: white;">Mais de 100
+          Projetos Entregues</div>
 
           <div style="text-align: center; color: white;">Com ampla experiência
           no mercado, entregamos soluções em engenharia elétrica, hidráulica,
