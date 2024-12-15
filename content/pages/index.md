@@ -637,8 +637,7 @@ sections:
         title: Whatsapp
         tagline: ''
         subtitle: ''
-        text: |
-          <!DOCTYPE html>
+        text: |+
           <html lang="en">
           <head>
               <meta charset="UTF-8">
@@ -653,6 +652,7 @@ sections:
           </body>
           </html>
           <div style="text-align: center">##### +5511986195444</div>
+
         image:
           type: ImageBlock
           altText: Background alt text
