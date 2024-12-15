@@ -196,7 +196,7 @@ sections:
         subtitle: ''
         text: >
           ### <div style="text-align: center; color: white;">Sustentabilidade e
-          Economia.</div>
+          Economia</div>
 
 
           #### <div style="text-align: center; color: white;">+ Economia</div>
