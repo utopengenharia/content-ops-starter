@@ -667,10 +667,10 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: |
-          <div style="text-align: center">### E-mail</div>
+        text: >+
+          <div style="text-align: left">### E-mail####
+          <engenharia@utop.com.br></engenharia@utop.com.br></div>
 
-          <div style="text-align: center">#### <engenharia@utop.com.br></div>
         image:
           type: ImageBlock
           url: /images/email.png
