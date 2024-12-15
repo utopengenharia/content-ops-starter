@@ -662,7 +662,7 @@ sections:
       - type: FeaturedItem
         title: E-mail
         tagline: ''
-        subtitle: engenharia@utop.com.br
+        subtitle: ''
         text: |+
           <div style="text-align: left"></div>
 
