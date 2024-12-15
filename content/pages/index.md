@@ -665,8 +665,12 @@ sections:
         title: Feature Item Two
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          <div style="text-align: center">### E-mail</div>
+
+
+          <div style="text-align: center">####
+          <engenharia@utop.com.br></engenharia@utop.com.br></div>
         image:
           type: ImageBlock
           url: /images/email.png
