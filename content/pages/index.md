@@ -67,7 +67,7 @@ sections:
 
     actions:
       - type: Button
-        label: Entre em contato conosco clicando nesse botão
+        label: ENTRE EM CONTATO CONOSCO CLICANDO AQUI
         altText: ''
         url: >-
           https://api.whatsapp.com/send/?phone=%2B5511986195444&text&type=phone_number&app_absent=0
@@ -137,12 +137,20 @@ sections:
       cliente.
     items:
       - type: FeaturedItem
-        title: Experiência Comprovada
-        subtitle: Mais de 100 Projetos Entregues
+        title: ''
+        subtitle: ''
         text: >
-          Com ampla experiência no mercado, entregamos soluções em engenharia
-          elétrica, hidráulica, estrutural, gás, SPDA,  combate a incêndio e
-          laudos, com qualidade e precisão técnica.
+          ### <div style="text-align: center; color: white;">Experiência
+          comprovada.</div>
+
+
+          #### <div style="text-align: center; color: white;">+ de 100 Projetos
+          Realizados</div>
+
+
+          <div style="text-align: center; color: white;">Com sólida atuação no
+          mercado, entregamos soluções em engenharia com qualidade e precisão
+          técnica, sempre atendendo às necessidades dos nossos clientes.</div>
         actions: []
         elementId: null
         colors: bg-neutral-fg-dark
@@ -157,12 +165,21 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: center
-      - title: Agilidade e Conformidade
-        subtitle: 20% Mais Ágil
-        text: >+
-          Reduzimos prazos e garantimos conformidade com as normas técnicas,
-          oferecendo soluções práticas e rápidas para seus projetos.
+      - title: ''
+        subtitle: ''
+        text: >
+          ### <div style="text-align: center; color: white;">Agilidade e
+          Conformidade.</div>
 
+
+          #### <div style="text-align: center; color: white;">20% Mais
+          Ágil</div>
+
+
+
+          <div style="text-align: center; color: white;">Reduzimos prazos e
+          garantimos conformidade com as normas técnicas, oferecendo soluções
+          práticas e rápidas para seus projetos.</div>
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -177,12 +194,20 @@ sections:
             textAlign: center
             justifyContent: center
         type: FeaturedItem
-      - title: Sustentabilidade e Economia
-        subtitle: Até 30% de Economia
-        text: >+
-          Projetos inteligentes que otimizam recursos, promovem eficiência e
-          ajudam a reduzir custos na execução.
+      - title: ''
+        subtitle: ''
+        text: >
+          ### <div style="text-align: center; color: white;">Sustentabilidade e
+          Economia.</div>
 
+
+          #### <div style="text-align: center; color: white;">30% de
+          Economia</div>
+
+
+          <div style="text-align: center; color: white;">Projetos inteligentes
+          que otimizam recursos, promovem eficiência e ajudam a reduzir custos
+          na execução</div>
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -405,7 +430,7 @@ sections:
             textAlign: center
     actions:
       - type: Button
-        label: CLIQUE AQUI PARA BAIXAR NOSSO PORTFÓLIO
+        label: BAIXE NOSSO PORTFÓLIO CLICANDO AQUI
         altText: ''
         url: >-
           https://drive.google.com/file/d/1CwtBrUxROS8QAkfDqnum65PDaHwV-OUJ/view?usp=sharing
@@ -493,13 +518,14 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          ##### “A UTOP Engenharia foi essencial para o sucesso da construção do
-          nosso prédio residencial. Eles elaboraram todos os projetos
-          complementares, incluindo os sistemas elétricos, hidráulicos, de gás,
-          SPDA e combate a incêndio, com um nível de detalhamento impecável. A
-          equipe demonstrou total domínio técnico e entregou tudo dentro do
-          prazo, garantindo a aprovação nos órgãos competentes sem nenhuma
-          dificuldade. Recomendo pela qualidade e profissionalismo!”
+          ##### <div style="text-align: center; color: white;">“A UTOP
+          Engenharia foi essencial para o sucesso da construção do nosso prédio
+          residencial. Eles elaboraram todos os projetos complementares,
+          incluindo os sistemas elétricos, hidráulicos, de gás, SPDA e combate a
+          incêndio, com um nível de detalhamento impecável. A equipe demonstrou
+          total domínio técnico e entregou tudo dentro do prazo, garantindo a
+          aprovação nos órgãos competentes sem nenhuma dificuldade. Recomendo
+          pela qualidade e profissionalismo!”</div>
 
         actions: []
         colors: bg-neutral-fg-dark
@@ -518,15 +544,15 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: >+
-          ##### "Contratamos a UTOP Engenharia para desenvolver todos os
-          projetos complementares da nossa nova loja, e ficamos extremamente
-          satisfeitos com o trabalho. Desde o projeto elétrico até o hidráulico
-          e de combate a incêndio, tudo foi feito com eficiência e alinhado às
-          normas técnicas. A equipe foi muito acessível durante todo o processo
-          e entregou soluções que otimizam os custos de operação da loja. Não
-          poderia estar mais feliz com o resultado!"
-
+        text: >
+          ##### <div style="text-align: center; color: white;"> "Contratamos a
+          UTOP Engenharia para desenvolver todos os projetos complementares da
+          nossa nova loja, e ficamos extremamente satisfeitos com o trabalho.
+          Desde o projeto elétrico até o hidráulico e de combate a incêndio,
+          tudo foi feito com eficiência e alinhado às normas técnicas. A equipe
+          foi muito acessível durante todo o processo e entregou soluções que
+          otimizam os custos de operação da loja. Não poderia estar mais feliz
+          com o resultado!"</div>
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -543,14 +569,14 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          ##### “Precisei de um laudo técnico para a reforma do meu apartamento
-          e a UTOP Engenharia foi a escolha certa. A equipe analisou todas as
-          condições existentes, apontou as adequações necessárias e elaborou um
-          laudo completo e muito bem detalhado. Isso facilitou a aprovação do
-          projeto pelo condomínio e me deu segurança para executar a reforma sem
-          imprevistos. Excelente trabalho!"
-
+        text: >
+          ##### <div style="text-align: center; color: white;"> “Precisei de um
+          laudo técnico para a reforma do meu apartamento e a UTOP Engenharia
+          foi a escolha certa. A equipe analisou todas as condições existentes,
+          apontou as adequações necessárias e elaborou um laudo completo e muito
+          bem detalhado. Isso facilitou a aprovação do projeto pelo condomínio e
+          me deu segurança para executar a reforma sem imprevistos. Excelente
+          trabalho!"</div>
         actions: []
         colors: bg-neutral-fg-dark
         styles:
