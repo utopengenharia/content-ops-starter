@@ -681,37 +681,6 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    items: []
-    actions: []
-    badge:
-      type: Badge
-      label: São Paulo - SP - 11986195444 - engenharia@utop.com.br - ©UTOP Engenharia
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-0
-          - pt-0
-          - pl-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
 seo:
   metaTitle: Home
   metaDescription: >-
