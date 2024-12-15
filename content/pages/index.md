@@ -60,11 +60,10 @@ sections:
           textAlign: center
           fontWeight: 400
     subtitle: ''
-    text: >+
+    text: >
       <div style="text-align: center">Soluções completas em projetos
       complementares: elétrica, hidráulica, estrutural, gás, SPDA, combate a
-      incêndios e laudos.</div>
-
+      incêndios e laudos</div>
     actions:
       - type: Button
         label: ENTRE EM CONTATO CONOSCO CLICANDO AQUI
@@ -141,7 +140,7 @@ sections:
         subtitle: ''
         text: >
           ### <div style="text-align: center; color: white;">Experiência
-          comprovada.</div>
+          comprovada</div>
 
 
           #### <div style="text-align: center; color: white;">+ de 200 Projetos
@@ -150,7 +149,7 @@ sections:
 
           <div style="text-align: center; color: white;">Com sólida atuação no
           mercado, entregamos soluções em engenharia com qualidade e precisão
-          técnica, sempre atendendo às necessidades dos nossos clientes.</div>
+          técnica, sempre atendendo às necessidades dos nossos clientes</div>
         actions: []
         elementId: null
         colors: bg-neutral-fg-dark
@@ -169,7 +168,7 @@ sections:
         subtitle: ''
         text: >
           ### <div style="text-align: center; color: white;">Agilidade e
-          Conformidade.</div>
+          Conformidade</div>
 
 
           #### <div style="text-align: center; color: white;">+ Ágil</div>
@@ -177,7 +176,7 @@ sections:
 
           <div style="text-align: center; color: white;">Reduzimos prazos e
           garantimos conformidade com as normas técnicas, oferecendo soluções
-          práticas e rápidas para seus projetos.</div>
+          práticas e rápidas para seus projetos</div>
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -196,7 +195,7 @@ sections:
         subtitle: ''
         text: >
           ### <div style="text-align: center; color: white;">Sustentabilidade e
-          Economia.</div>
+          Economia</div>
 
 
           #### <div style="text-align: center; color: white;">+ Economia</div>
@@ -467,13 +466,12 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Um processo eficiente para garantir a qualidade dos seus projetos.
-    text: >+
+    subtitle: Um processo eficiente para garantir a qualidade dos seus projetos
+    text: >
       ##### No UTOP Engenharia, seguimos uma abordagem estruturada para entregar
       projetos com precisão técnica, dentro do prazo e alinhados às suas
       necessidades. Cada etapa é planejada para oferecer a melhor solução para o
-      seu empreendimento.
-
+      seu empreendimento
     colors: bg-light-fg-dark
     styles:
       self:
@@ -623,15 +621,14 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: >+
+    text: >
       <div style="text-align: center">## Tem dúvidas ou precisa de um
       orçamento?</div>
 
 
       <div style="text-align: center">##### Na UTOP Engenharia, estamos prontos
       para entender as suas necessidades e oferecer soluções sob medida. Entre
-      em contato agora mesmo através dos botões abaixo.</div>
-
+      em contato agora mesmo através dos botões abaixo</div>
     actions:
       - type: Button
         label: WHATSAPP
