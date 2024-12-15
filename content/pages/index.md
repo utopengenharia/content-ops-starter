@@ -634,7 +634,7 @@ sections:
       dados abaixo.
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: ''
         tagline: ''
         subtitle: ''
         text: >
