@@ -628,7 +628,7 @@ sections:
     subtitle: >-
       Na UTOP Engenharia, estamos prontos para entender as suas necessidades e
       oferecer soluções sob medida. Entre em contato agora mesmo através dos
-      dados abaixo.
+      botões abaixo.
     text: ''
     actions:
       - type: Button
