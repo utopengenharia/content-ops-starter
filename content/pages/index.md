@@ -647,7 +647,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Get started
+        label: E-MAIL
         altText: ''
         url: /
         showIcon: false
