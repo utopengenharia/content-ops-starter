@@ -667,7 +667,7 @@ sections:
         padding:
           - pt-16
           - pl-16
-          - pb-0
+          - pb-16
           - pr-16
         justifyContent: center
   - type: FeaturedItemsSection
