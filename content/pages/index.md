@@ -658,7 +658,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-            textAlign: right
+            textAlign: center
       - type: FeaturedItem
         title: E-mail
         tagline: ''
