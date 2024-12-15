@@ -664,7 +664,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |+
-          <div style="text-align: center">##### engenharia\@utop.com.br
+          <div style="text-align: left">##### <engenharia@utop.com.br></div>
 
           </div>
 
