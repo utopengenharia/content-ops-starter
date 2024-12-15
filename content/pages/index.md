@@ -67,7 +67,7 @@ sections:
 
     actions:
       - type: Button
-        label: Entre em contato conosco clicando nesse botão
+        label: ENTRE EM CONTATO CONOSCO CLICANDO NESSE BOTÃO
         altText: ''
         url: >-
           https://api.whatsapp.com/send/?phone=%2B5511986195444&text&type=phone_number&app_absent=0
