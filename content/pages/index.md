@@ -663,7 +663,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Tem dúvidas ou precisa de um orçamento?
+      text: ''
       color: text-dark
       styles:
         self:
