@@ -620,86 +620,56 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - type: FeaturedItemsSection
+  - type: GenericSection
     title:
       type: TitleBlock
-      text: Tem dúvidas ou precisa de um orçamento?
+      text: ''
       color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: >-
-      Na UTOP Engenharia, estamos prontos para entender as suas necessidades e
-      oferecer soluções sob medida. Entre em contato agora mesmo através dos
-      dados abaixo.
-    items:
-      - type: FeaturedItem
-        title: Whatsapp
-        tagline: ''
-        subtitle: ''
-        text: |+
-          ##### +5511986195444
+    subtitle: ''
+    text: >+
+      <div style="text-align: center">## Tem dúvidas ou precisa de um
+      orçamento?</div>
 
-        image:
-          type: ImageBlock
-          altText: Background alt text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: center
-      - type: FeaturedItem
-        title: E-mail
-        tagline: ''
-        subtitle: ''
-        text: |+
-          <div style="text-align: center">##### <engenharia@utop.com.br></div>
 
-        image:
-          type: ImageBlock
-          altText: Background alt text
-          styles:
-            self:
-              borderRadius: x-large
-              margin:
-                - ml-10
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: center
-            justifyContent: center
-    actions: []
-    variant: two-col-grid
+      <div style="text-align: center">##### Na UTOP Engenharia, estamos prontos
+      para entender as suas necessidades e oferecer soluções sob medida. Entre
+      em contato agora mesmo através dos botões abaixo.</div>
+
+    actions:
+      - type: Button
+        label: WHATSAPP
+        altText: ''
+        url: >-
+          https://api.whatsapp.com/send/?phone=%2B5511986195444&text&type=phone_number&app_absent=0
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: E-MAIL
+        altText: ''
+        url: 'mailto:engenharia@utop.com.br'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
+        alignItems: center
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
         padding:
           - pt-16
           - pl-16
           - pb-16
           - pr-16
         justifyContent: center
-      subtitle:
-        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
