@@ -670,17 +670,6 @@ sections:
           - pb-0
           - pr-16
         justifyContent: center
-  - type: GenericSection
-    subtitle: ''
-    text: |+
-
-
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        justifyContent: center
   - type: DividerSection
     title: Divider
     elementId: ''
