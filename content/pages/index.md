@@ -638,7 +638,9 @@ sections:
         tagline: ''
         subtitle: ''
         text: |+
-
+          <p>
+              <i class="fab fa-whatsapp" style="margin-right: 5px;"></i> Entre em contato pelo WhatsApp
+          </p>
 
         image:
           type: ImageBlock
