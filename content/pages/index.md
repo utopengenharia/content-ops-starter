@@ -672,8 +672,7 @@ sections:
         justifyContent: center
   - type: GenericSection
     subtitle: ''
-    text: |2-
-       <meta charset="UTF-8">
+    text: |2+
           <meta name="viewport" content="width=device-width, initial-scale=1.0">
           <title>Centralizar Texto</title>
           <style>
@@ -698,6 +697,7 @@ sections:
               engenharia@utop.com.br - © 2024 UTOP Engenharia <br>
               engenharia@utop.com.br
           </div>
+
     actions: []
     colors: bg-light-fg-dark
     styles:
