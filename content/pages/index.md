@@ -60,11 +60,10 @@ sections:
           textAlign: center
           fontWeight: 400
     subtitle: ''
-    text: >+
+    text: >
       <div style="text-align: center">Soluções completas em projetos
       complementares: elétrica, hidráulica, estrutural, gás, SPDA, combate a
-      incêndios e laudos.</div>
-
+      incêndios e laudos</div>
     actions:
       - type: Button
         label: ENTRE EM CONTATO CONOSCO CLICANDO AQUI
