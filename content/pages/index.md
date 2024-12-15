@@ -689,7 +689,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: São Paulo - SP - 11986195444 - engenharia@utop.com.br - ©UTOP Engenharia
+    subtitle: ''
     items: []
     actions: []
     badge:
