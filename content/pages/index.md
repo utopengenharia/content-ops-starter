@@ -638,9 +638,11 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          <p style="font-size: 16px; color: #25D366;"><i class="fab fa-whatsapp"
-          style="margin-right: 5px;"></i> Converse conosco no WhatsApp
-
+          <p><img
+          src="https\://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+          alt="WhatsApp" style="width: 20px; height: 20px; vertical-align:
+          middle; margin-right: 5px;">
+              Entre em contato pelo WhatsApp
           </p>
 
         image:
