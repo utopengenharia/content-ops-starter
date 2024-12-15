@@ -637,8 +637,16 @@ sections:
         title: Feature Item One
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          <div style="text-align: center">### Whatsapp</div>
+
+
+          <div style="text-align: center">####
+          \[+5511986195444]\(https\://api.whatsapp.com/send/?phone=%2B5511986195444\\\&text\\\&type=phone\_number\\\&app\_absent=0)</div>
+
+
+
+
         image:
           type: ImageBlock
           url: /images/whats.png
