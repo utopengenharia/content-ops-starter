@@ -405,7 +405,7 @@ sections:
             textAlign: center
     actions:
       - type: Button
-        label: CLIQUE AQUI PARA BAIXAR NOSSO PORTFÓLIO
+        label: BAIXE NOSSO PORTFÓLIO CLICANDO AQUI
         altText: ''
         url: >-
           https://drive.google.com/file/d/1CwtBrUxROS8QAkfDqnum65PDaHwV-OUJ/view?usp=sharing
