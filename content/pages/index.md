@@ -169,8 +169,21 @@ sections:
       - title: Agilidade e Conformidade
         subtitle: 20% Mais Ágil
         text: >+
-          Reduzimos prazos e garantimos conformidade com as normas técnicas,
-          oferecendo soluções práticas e rápidas para seus projetos.
+          ### <div style="text-align: center; color: white;">Agilidade e
+          Conformidade.</div>
+
+
+          #### <div style="text-align: center; color: white;">20% Mais
+          Ágil</div>
+
+
+          <div style="text-align: center; color: white;">Reduzimos prazos e
+          garantimos conformidade com as normas técnicas, oferecendo soluções
+          práticas e rápidas para seus projetos.</div>
+
+
+
+
 
         actions: []
         colors: bg-neutral-fg-dark
