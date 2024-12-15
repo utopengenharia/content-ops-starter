@@ -694,7 +694,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: São Paulo (SP) - 11986195444 - engenharia@utop.com.br - ©UTOP Engenharia
+      label: São Paulo - SP - 11986195444 - engenharia@utop.com.br - ©UTOP Engenharia
       color: text-dark
       styles:
         self:
