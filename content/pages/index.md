@@ -169,7 +169,7 @@ sections:
         subtitle: ''
         text: >
           ### <div style="text-align: center; color: white;">Agilidade e
-          Conformidade.</div>
+          Conformidade</div>
 
 
           #### <div style="text-align: center; color: white;">+ Ágil</div>
@@ -177,7 +177,7 @@ sections:
 
           <div style="text-align: center; color: white;">Reduzimos prazos e
           garantimos conformidade com as normas técnicas, oferecendo soluções
-          práticas e rápidas para seus projetos.</div>
+          práticas e rápidas para seus projetos</div>
         actions: []
         colors: bg-neutral-fg-dark
         styles:
