@@ -664,7 +664,7 @@ sections:
             justifyContent: flex-end
             textAlign: right
       - type: FeaturedItem
-        title: ''
+        title: E-mail
         tagline: ''
         subtitle: ''
         text: >
