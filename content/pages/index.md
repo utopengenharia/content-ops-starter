@@ -649,7 +649,7 @@ sections:
       - type: Button
         label: E-MAIL
         altText: ''
-        url: engenharia@utop.com.br
+        url: '<a href="mailto:seuemail@dominio.com" class="email-button">'
         showIcon: false
         icon: arrowRight
         iconPosition: right
