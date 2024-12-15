@@ -140,9 +140,9 @@ sections:
         title: Experiência Comprovada
         subtitle: Mais de 100 Projetos Entregues
         text: >
-          \#ffffffCom ampla experiência no mercado, entregamos soluções em
-          engenharia elétrica, hidráulica, estrutural, gás, SPDA,  combate a
-          incêndio e laudos, com qualidade e precisão técnica.
+          Com ampla experiência no mercado, entregamos soluções em engenharia
+          elétrica, hidráulica, estrutural, gás, SPDA,  combate a incêndio e
+          laudos, com qualidade e precisão técnica.
         actions: []
         elementId: null
         colors: bg-neutral-fg-dark
