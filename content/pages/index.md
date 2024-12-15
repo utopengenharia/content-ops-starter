@@ -709,6 +709,11 @@ sections:
     styles:
       self:
         justifyContent: center
+        margin:
+          - mt-16
+          - ml-16
+          - mb-16
+          - mr-16
       subtitle:
         textAlign: center
 seo:
