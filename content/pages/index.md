@@ -666,7 +666,7 @@ sections:
       - type: FeaturedItem
         title: E-mail
         tagline: ''
-        subtitle: ''
+        subtitle: E-mail
         text: >
           </div>
 
