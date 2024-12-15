@@ -768,9 +768,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: >-
-        São Paulo / Mogi das Cruzes (SP) - 11 986195444 - engenharia@utop.com.br
-        - © 2024 UTOP Engenharia
+      label: "São Paulo\_ (SP) - 11 986195444 - engenharia@utop.com.br - © 2024 UTOP Engenharia"
       color: text-primary
       styles:
         self:
