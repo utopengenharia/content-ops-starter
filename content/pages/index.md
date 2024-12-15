@@ -172,9 +172,7 @@ sections:
           Conformidade.</div>
 
 
-          #### <div style="text-align: center; color: white;">20% Mais
-          Ágil</div>
-
+          #### <div style="text-align: center; color: white;">+ Ágil</div>
 
 
           <div style="text-align: center; color: white;">Reduzimos prazos e
