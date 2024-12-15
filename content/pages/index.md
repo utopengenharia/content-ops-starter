@@ -638,10 +638,10 @@ sections:
         title: ''
         price: ''
         details: ''
-        description: >+
-          <div style="text-align: center">###
-          E-mail<utopengenharia@gmail.com></utopengenharia@gmail.com></div>
+        description: |
+          <div style="text-align: center">### E-mail</div>
 
+          <div style="text-align: center">#### [engenharia@utop.com.br]</div>
         features: []
         image:
           type: ImageBlock
