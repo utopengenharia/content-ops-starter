@@ -625,10 +625,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: >-
-      Na UTOP Engenharia, estamos prontos para entender as suas necessidades e
-      oferecer soluções sob medida. Entre em contato agora mesmo através dos
-      botões abaixo.
+    subtitle: ''
     text: |
       Tem dúvidas ou precisa de um orçamento?
     actions:
