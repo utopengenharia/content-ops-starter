@@ -679,6 +679,9 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions: []
     colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
   - type: DividerSection
     title: Divider
     elementId: ''
