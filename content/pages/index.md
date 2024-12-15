@@ -710,10 +710,10 @@ sections:
       self:
         justifyContent: center
         margin:
-          - mt-16
-          - ml-16
+          - mt-0
+          - ml-0
           - mb-0
-          - mr-16
+          - mr-0
       subtitle:
         textAlign: center
 seo:
