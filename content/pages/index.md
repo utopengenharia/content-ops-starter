@@ -202,8 +202,7 @@ sections:
       - title: ''
         subtitle: ''
         text: >+
-          ### <div style="text-align: center; color: white;">Sustentabilidade e
-          Economia</div>
+          ### <div style="text-align: center; color: white;"></div>
 
 
           #### <div style="text-align: center; color: white;">Até 30% de
@@ -213,8 +212,6 @@ sections:
           <div style="text-align: center; color: white;">Projetos inteligentes
           que otimizam recursos, promovem eficiência e ajudam a reduzir custos
           na execução</div>
-
-
 
         actions: []
         colors: bg-neutral-fg-dark
