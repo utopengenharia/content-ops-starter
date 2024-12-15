@@ -637,9 +637,10 @@ sections:
         title: Whatsapp
         tagline: ''
         subtitle: ''
-        text: |+
-          <p>
-              <i class="fab fa-whatsapp" style="margin-right: 5px;"></i> Entre em contato pelo WhatsApp
+        text: >+
+          <p style="font-size: 16px; color: #25D366;"><i class="fab fa-whatsapp"
+          style="margin-right: 5px;"></i> Converse conosco no WhatsApp
+
           </p>
 
         image:
