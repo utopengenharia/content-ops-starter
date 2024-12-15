@@ -638,10 +638,11 @@ sections:
         title: ''
         price: ''
         details: ''
-        description: |
+        description: |+
           <div style="text-align: center">### E-mail</div>
 
-          <div style="text-align: center">#### [engenharia@utop.com.br]</div>
+          <div style="text-align: center">#### <engenharia@utop.com.br></div>
+
         features: []
         image:
           type: ImageBlock
