@@ -148,10 +148,9 @@ sections:
           Entregues</div>
 
 
-          <div style="text-align: center; color: white;">Com ampla experiência
-          no mercado, entregamos soluções em engenharia elétrica, hidráulica,
-          estrutural, gás, SPDA,  combate a incêndio e laudos, com qualidade e
-          precisão técnica.</div>
+          <div style="text-align: center; color: white;">Com vasta experiência
+          no mercado, oferecemos soluções em engenharia com mais de 100 projetos
+          e laudos concluídos, garantindo qualidade e precisão técnica.</div>
         actions: []
         elementId: null
         colors: bg-neutral-fg-dark
