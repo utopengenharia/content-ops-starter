@@ -609,15 +609,19 @@ sections:
     plans:
       - type: PricingPlan
         title: ''
-        price: Whatsapp
+        price: ''
         details: ''
-        description: >
-          ####
-          [+5511986195444](https://api.whatsapp.com/send/?phone=%2B5511986195444&text&type=phone_number&app_absent=0)
+        description: >+
+          <div style="text-align: center">### Whatsapp</div>
+
+
+          <div style="text-align: center">####
+          [+5511986195444](https://api.whatsapp.com/send/?phone=%2B5511986195444\&text\&type=phone_number\&app_absent=0)</div>
+
         features: []
         image:
           type: ImageBlock
-          url: /images/511256whats.png
+          url: /images/5156whats.png
           altText: Pricing plan 1
         actions: []
         colors: bg-light-fg-dark
@@ -632,15 +636,17 @@ sections:
             textAlign: center
       - type: PricingPlan
         title: ''
-        price: E-mail
+        price: ''
         details: ''
         description: |+
-          #### <utopengenharia@gmail.com>
+          <div style="text-align: center">### E-mail</div>
+
+          <div style="text-align: center">#### <engenharia@utop.com.br></div>
 
         features: []
         image:
           type: ImageBlock
-          url: /images/511256email.png
+          url: /images/511128email.png
           altText: Pricing plan 2
         actions: []
         colors: bg-light-fg-dark
