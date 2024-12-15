@@ -466,7 +466,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Um processo eficiente para garantir a qualidade dos seus projetos.
+    subtitle: Um processo eficiente para garantir a qualidade dos seus projetos
     text: >
       ##### No UTOP Engenharia, seguimos uma abordagem estruturada para entregar
       projetos com precisão técnica, dentro do prazo e alinhados às suas
