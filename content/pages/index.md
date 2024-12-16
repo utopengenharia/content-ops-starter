@@ -206,7 +206,7 @@ sections:
 
           <div style="text-align: center; color: white;">Nossos projetos
           inteligentes priorizam a otimização de recursos, promovendo eficiência
-          e redução de custos na execução.</div>
+          e redução de custos na execução</div>
         actions: []
         colors: bg-neutral-fg-dark
         styles:
