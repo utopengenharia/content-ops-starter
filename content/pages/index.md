@@ -149,7 +149,7 @@ sections:
 
           <div style="text-align: center; color: white;">Com vasta experiência
           no mercado, entregamos soluções em engenharia com qualidade, precisão
-          técnica e total foco nas necessidades dos nossos clientes.
+          técnica e total foco nas necessidades dos nossos clientes
 
 
           </div>
@@ -206,7 +206,7 @@ sections:
 
           <div style="text-align: center; color: white;">Nossos projetos
           inteligentes priorizam a otimização de recursos, promovendo eficiência
-          e redução de custos na execução.</div>
+          e redução de custos na execução</div>
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -365,7 +365,7 @@ sections:
       type: TitleBlock
       text: >-
         Conheça alguns dos nossos projetos que fizeram a diferença para nossos
-        clientes.
+        clientes
       color: text-dark
       styles:
         self:
