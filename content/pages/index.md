@@ -568,11 +568,11 @@ sections:
         text: >
           ##### <div style="text-align: center; color: white;"> “Precisei de um
           laudo técnico para a reforma do meu apartamento e a UTOP Engenharia
-          foi a escolha certa. A equipe analisou todas as condições existentes,
-          apontou as adequações necessárias e elaborou um laudo completo e muito
-          bem detalhado. Isso facilitou a aprovação do projeto pelo condomínio e
-          me deu segurança para executar a reforma sem imprevistos. Excelente
-          trabalho!"</div>
+          foi a escolha certa. A equipe avaliou todas as condições existentes,
+          indicou as adequações necessárias e preparou um laudo completo e muito
+          detalhado. Isso facilitou a aprovação do projeto no condomínio e me
+          deu segurança para executar a obra sem imprevistos. Excelente
+          trabalho!”</div>
         actions: []
         colors: bg-neutral-fg-dark
         styles:
