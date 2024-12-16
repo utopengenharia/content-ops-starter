@@ -15,8 +15,7 @@ export default function Footer(props) {
                 'sb-component',
                 'sb-component-footer',
                 'bg-light-fg-dark',
-                styles?.self?.margin ? mapStyles({ padding: styles?.self?.margin }) : undefined,
-                styles?.self?.padding ? mapStyles({ padding: styles?.self?.padding }) : 'px-4 py-28'
+                'px-4 py-28' // Padding padrão, pode ser ajustado conforme necessário
             )}
             {...(enableAnnotations && { 'data-sb-object-id': props?.__metadata?.id })}
         >
