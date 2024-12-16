@@ -174,12 +174,12 @@ sections:
           Conformidade</div>
 
 
-          #### <div style="text-align: center; color: white;">+ Ágil</div>
+          #### <div style="text-align: center; color: white;">+ Ágilidade</div>
 
 
           <div style="text-align: center; color: white;">Reduzimos prazos e
-          garantimos conformidade com as normas técnicas, oferecendo soluções
-          práticas e rápidas para seus projetos</div>
+          garantimos total conformidade com as normas, oferecendo soluções
+          práticas, seguras e rápidas para o seu projeto</div>
         actions: []
         colors: bg-neutral-fg-dark
         styles:
