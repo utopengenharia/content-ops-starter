@@ -627,9 +627,9 @@ sections:
       orçamento?</div>
 
 
-      <div style="text-align: center">##### Na UTOP Engenharia, estamos prontos
-      para entender as suas necessidades e oferecer soluções sob medida. Entre
-      em contato agora mesmo através dos botões abaixo</div>
+      <div style="text-align: center">##### Na UTOP Engenharia estamos prontos
+      para entender suas necessidades e oferecer soluções sob medida. Entre em
+      contato agora mesmo:</div>
     actions:
       - type: Button
         label: WHATSAPP
