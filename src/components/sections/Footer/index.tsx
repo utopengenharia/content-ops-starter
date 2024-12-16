@@ -14,7 +14,7 @@ export default function Footer(props) {
                 'sb-component',
                 'sb-component-footer',
                 'bg-light-fg-dark',
-                'px-4 py-6 mt-10' // Adicionando margem superior com mt-10
+                'px-4 py-6 mt-1' // Adicionando margem superior com mt-1
             )}
             {...(enableAnnotations && { 'data-sb-object-id': props?.__metadata?.id })}
         >
