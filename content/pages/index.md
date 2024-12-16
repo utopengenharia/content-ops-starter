@@ -365,7 +365,7 @@ sections:
       type: TitleBlock
       text: >-
         Conheça alguns dos nossos projetos que fizeram a diferença para nossos
-        clientes.
+        clientes
       color: text-dark
       styles:
         self:
