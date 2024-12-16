@@ -5,7 +5,6 @@ import classNames from 'classnames';
 export default function Footer(props) {
     const {
         copyrightText,
-        styles = {},
         enableAnnotations
     } = props;
 
@@ -15,7 +14,7 @@ export default function Footer(props) {
                 'sb-component',
                 'sb-component-footer',
                 'bg-light-fg-dark',
-                'px-4 py-28' // Padding padrão, pode ser ajustado conforme necessário
+                'px-4 py-4' // Reduzido de py-28 para py-4
             )}
             {...(enableAnnotations && { 'data-sb-object-id': props?.__metadata?.id })}
         >
