@@ -85,8 +85,8 @@ export default function Footer(props) {
                         )}
                         {copyrightText && (
                             <Markdown
-                                options={{ forceInline: true, forceWrapper: true, wrapper: 'p' }}
-                                className={classNames('sb-markdown', 'text-sm', 'mb-4', { 'sm:order-first sm:mr-12': legalLinks.length > 0 })}
+                               options={{ forceInline: true, forceWrapper: true, wrapper: 'p' }}
+                                className={classNames('sb-markdown', 'text-sm', 'mb-4', 'text-center', { 'sm:order-first sm:mr-12': legalLinks.length > 0 })}
                                 {...(enableAnnotations && { 'data-sb-field-path': 'copyrightText' })}
                             >
                                 {copyrightText}
