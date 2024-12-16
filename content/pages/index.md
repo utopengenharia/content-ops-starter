@@ -149,7 +149,7 @@ sections:
 
           <div style="text-align: center; color: white;">Com vasta experiência
           no mercado, entregamos soluções em engenharia com qualidade, precisão
-          técnica e total foco nas necessidades dos nossos clientes.
+          técnica e total foco nas necessidades dos nossos clientes
 
 
           </div>
