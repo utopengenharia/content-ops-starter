@@ -132,8 +132,8 @@ sections:
           fontWeight: 400
       type: TitleBlock
     subtitle: >-
-      Soluções inovadoras, alinhadas às normas e feitas sob medida para cada
-      cliente.
+      Oferecemos soluções inovadoras, rigorosamente alinhadas às normas
+      técnicas, desenvolvidas sob medida para cada cliente
     items:
       - type: FeaturedItem
         title: ''
