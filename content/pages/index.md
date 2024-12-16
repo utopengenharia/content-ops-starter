@@ -515,16 +515,15 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: >+
+        text: >
           ##### <div style="text-align: center; color: white;">“A UTOP
-          Engenharia foi essencial para o sucesso da construção do nosso prédio
-          residencial. Eles elaboraram todos os projetos complementares,
-          incluindo os sistemas elétricos, hidráulicos, de gás, SPDA e combate a
-          incêndio, com um nível de detalhamento impecável. A equipe demonstrou
-          total domínio técnico e entregou tudo dentro do prazo, garantindo a
-          aprovação nos órgãos competentes sem nenhuma dificuldade. Recomendo
-          pela qualidade e profissionalismo!”</div>
-
+          Engenharia foi fundamental no sucesso da construção do nosso edifício
+          residencial. Eles elaboraram todos os projetos complementares —
+          elétrico, hidráulico, gás, SPDA e combate a incêndio — com um nível de
+          detalhamento impecável. A equipe demonstrou total domínio técnico,
+          cumpriu todos os prazos e garantiu aprovação junto aos órgãos
+          competentes sem problemas. Recomendo pela qualidade e
+          profissionalismo!”</div>
         actions: []
         colors: bg-neutral-fg-dark
         styles:
