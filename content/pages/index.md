@@ -204,9 +204,9 @@ sections:
           #### <div style="text-align: center; color: white;">+ Economia</div>
 
 
-          <div style="text-align: center; color: white;">Projetos inteligentes
-          que otimizam recursos, promovem eficiência e ajudam a reduzir custos
-          na execução</div>
+          <div style="text-align: center; color: white;">Nossos projetos
+          inteligentes priorizam a otimização de recursos, promovendo eficiência
+          e redução de custos na execução.</div>
         actions: []
         colors: bg-neutral-fg-dark
         styles:
